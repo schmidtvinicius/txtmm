@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bf8dfa375d3fa5bd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "04-09/Annotations zhai2016.md"
-              }
-            }
-          },
-          {
             "id": "dc4d0048b032f5d1",
             "type": "leaf",
             "state": {
@@ -93,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-09/Annotations zhai2016.md",
+                "file": "04-09/Annotations eisenstein-nov18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-09/Annotations zhai2016.md",
+                "file": "04-09/Annotations eisenstein-nov18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-09/Annotations zhai2016.md"
+                "file": "04-09/Annotations eisenstein-nov18.md"
               }
             }
           }
@@ -154,10 +144,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf8dfa375d3fa5bd",
+  "active": "dc4d0048b032f5d1",
   "lastOpenFiles": [
-    "04-09/Annotations eisenstein-nov18.md",
     "04-09/Annotations zhai2016.md",
+    "04-09/Annotations eisenstein-nov18.md",
     "eisenstein-nov18.pdf",
     "week1/Text mining facilitate materials discovery.pdf",
     "week1/Annotations.md",
