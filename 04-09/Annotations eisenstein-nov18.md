@@ -716,3 +716,171 @@ annotation-target: ../eisenstein-nov18.pdf
 >%%TAGS%%
 >
 ^6n01a0d079d
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-04T05:32:07.388Z","updated":"2024-09-04T05:32:07.388Z","document":{"title":"eisenstein-nov18.pdf","link":[{"href":"urn:x-pdf:e0a254f5da629bd095f24a0b5f82578d"},{"href":"vault:/eisenstein-nov18.pdf"}],"documentFingerprint":"e0a254f5da629bd095f24a0b5f82578d"},"uri":"vault:/eisenstein-nov18.pdf","target":[{"source":"vault:/eisenstein-nov18.pdf","selector":[{"type":"TextPositionSelector","start":421543,"end":421773},{"type":"TextQuoteSelector","exact":"The strategy of the Universal Dependencies corpus is to design a coarse-grainedtagset to be used across all languages, and then to additionally annotate language-specificmorphosyntactic attributes, such as number, tense, and case.","prefix":"tagset, and less in otherareas. ","suffix":" The attribute tagging taskis de"}]}]}
+>```
+>%%
+>*%%PREFIX%%tagset, and less in otherareas.%%HIGHLIGHT%% ==The strategy of the Universal Dependencies corpus is to design a coarse-grainedtagset to be used across all languages, and then to additionally annotate language-specificmorphosyntactic attributes, such as number, tense, and case.== %%POSTFIX%%The attribute tagging taskis de*
+>%%LINK%%[[#^msrqfr44d3|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^msrqfr44d3
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-04T05:32:53.329Z","updated":"2024-09-04T05:32:53.329Z","document":{"title":"eisenstein-nov18.pdf","link":[{"href":"urn:x-pdf:e0a254f5da629bd095f24a0b5f82578d"},{"href":"vault:/eisenstein-nov18.pdf"}],"documentFingerprint":"e0a254f5da629bd095f24a0b5f82578d"},"uri":"vault:/eisenstein-nov18.pdf","target":[{"source":"vault:/eisenstein-nov18.pdf","selector":[{"type":"TextPositionSelector","start":422083,"end":422360},{"type":"TextQuoteSelector","exact":"Social mediaalso includes dialectal words like gonna (‘going to’, e.g. We gonna be fine) and Ima (‘I’mgoing to’, e.g., Ima tell you one more time), which can be analyzed either as non-standardorthography (making tokenization impossible), or as lexical items in their own right.","prefix":" emoticons, URLs, and hashtags. ","suffix":" Ineither case, it is clear that"}]}]}
+>```
+>%%
+>*%%PREFIX%%emoticons, URLs, and hashtags.%%HIGHLIGHT%% ==Social mediaalso includes dialectal words like gonna (‘going to’, e.g. We gonna be fine) and Ima (‘I’mgoing to’, e.g., Ima tell you one more time), which can be analyzed either as non-standardorthography (making tokenization impossible), or as lexical items in their own right.== %%POSTFIX%%Ineither case, it is clear that*
+>%%LINK%%[[#^ttuiyi7bv1q|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ttuiyi7bv1q
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-04T05:35:50.014Z","updated":"2024-09-04T05:35:50.014Z","document":{"title":"eisenstein-nov18.pdf","link":[{"href":"urn:x-pdf:e0a254f5da629bd095f24a0b5f82578d"},{"href":"vault:/eisenstein-nov18.pdf"}],"documentFingerprint":"e0a254f5da629bd095f24a0b5f82578d"},"uri":"vault:/eisenstein-nov18.pdf","target":[{"source":"vault:/eisenstein-nov18.pdf","selector":[{"type":"TextPositionSelector","start":423779,"end":423914},{"type":"TextQuoteSelector","exact":"For example, (Collins, 2002) achieved 97.1%accuracy on the Penn Treebank, using a structured perceptron with the following basefeatures","prefix":"t-of-speech tagging in English. ","suffix":" (originally introduced by Ratna"}]}]}
+>```
+>%%
+>*%%PREFIX%%t-of-speech tagging in English.%%HIGHLIGHT%% ==For example, (Collins, 2002) achieved 97.1%accuracy on the Penn Treebank, using a structured perceptron with the following basefeatures== %%POSTFIX%%(originally introduced by Ratna*
+>%%LINK%%[[#^zodtxh4en4|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^zodtxh4en4
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-04T05:36:00.501Z","updated":"2024-09-04T05:36:00.501Z","document":{"title":"eisenstein-nov18.pdf","link":[{"href":"urn:x-pdf:e0a254f5da629bd095f24a0b5f82578d"},{"href":"vault:/eisenstein-nov18.pdf"}],"documentFingerprint":"e0a254f5da629bd095f24a0b5f82578d"},"uri":"vault:/eisenstein-nov18.pdf","target":[{"source":"vault:/eisenstein-nov18.pdf","selector":[{"type":"TextPositionSelector","start":424340,"end":424451},{"type":"TextQuoteSelector","exact":"More recent work has demonstrated the power of neural sequence models, such as thelong short-term memory (LSTM)","prefix":"s (CRFs;Toutanova et al., 2003).","suffix":" (§ 7.6). Plank et al. (2016) ap"}]}]}
+>```
+>%%
+>*%%PREFIX%%s (CRFs;Toutanova et al., 2003).%%HIGHLIGHT%% ==More recent work has demonstrated the power of neural sequence models, such as thelong short-term memory (LSTM)== %%POSTFIX%%(§ 7.6). Plank et al. (2016) ap*
+>%%LINK%%[[#^h8mb8qek01|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^h8mb8qek01
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-04T05:44:07.840Z","updated":"2024-09-04T05:44:07.840Z","document":{"title":"eisenstein-nov18.pdf","link":[{"href":"urn:x-pdf:e0a254f5da629bd095f24a0b5f82578d"},{"href":"vault:/eisenstein-nov18.pdf"}],"documentFingerprint":"e0a254f5da629bd095f24a0b5f82578d"},"uri":"vault:/eisenstein-nov18.pdf","target":[{"source":"vault:/eisenstein-nov18.pdf","selector":[{"type":"TextPositionSelector","start":427739,"end":428075},{"type":"TextQuoteSelector","exact":"little work on automatically labeling morphosyntactic attributes. Faruqui et al. (2016)train a support vector machine classification model, using a minimal feature set that in-cludes the word itself, its prefixes and suffixes, and type-level information listing all pos-sible morphosyntactic attributes for each word and its neighbors. ","prefix":" tagging, there is comparatively","suffix":"Mueller et al. (2013) usea condi"}]}]}
+>```
+>%%
+>*%%PREFIX%%tagging, there is comparatively%%HIGHLIGHT%% ==little work on automatically labeling morphosyntactic attributes. Faruqui et al. (2016)train a support vector machine classification model, using a minimal feature set that in-cludes the word itself, its prefixes and suffixes, and type-level information listing all pos-sible morphosyntactic attributes for each word and its neighbors.== %%POSTFIX%%Mueller et al. (2013) usea condi*
+>%%LINK%%[[#^lpv33f3odo|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^lpv33f3odo
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-04T05:46:51.653Z","updated":"2024-09-04T05:46:51.653Z","document":{"title":"eisenstein-nov18.pdf","link":[{"href":"urn:x-pdf:e0a254f5da629bd095f24a0b5f82578d"},{"href":"vault:/eisenstein-nov18.pdf"}],"documentFingerprint":"e0a254f5da629bd095f24a0b5f82578d"},"uri":"vault:/eisenstein-nov18.pdf","target":[{"source":"vault:/eisenstein-nov18.pdf","selector":[{"type":"TextPositionSelector","start":428488,"end":428770},{"type":"TextQuoteSelector","exact":"For example, Pinter et al. (2017) traina bidirectional LSTM sequence model. The input layer and hidden vectors in the LSTMare shared across attributes, but each attribute has its own output layer, culminating ina softmax over all attribute values, e.g. yNUMBERt ∈ {SING,PLURAL,...}.","prefix":"rectional LSTM sequence models. ","suffix":" They find thatcharacter-level i"}]}]}
+>```
+>%%
+>*%%PREFIX%%rectional LSTM sequence models.%%HIGHLIGHT%% ==For example, Pinter et al. (2017) traina bidirectional LSTM sequence model. The input layer and hidden vectors in the LSTMare shared across attributes, but each attribute has its own output layer, culminating ina softmax over all attribute values, e.g. yNUMBERt ∈ {SING,PLURAL,...}.== %%POSTFIX%%They find thatcharacter-level i*
+>%%LINK%%[[#^b65ns5961i9|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^b65ns5961i9
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-04T05:50:53.357Z","updated":"2024-09-04T05:50:53.357Z","document":{"title":"eisenstein-nov18.pdf","link":[{"href":"urn:x-pdf:e0a254f5da629bd095f24a0b5f82578d"},{"href":"vault:/eisenstein-nov18.pdf"}],"documentFingerprint":"e0a254f5da629bd095f24a0b5f82578d"},"uri":"vault:/eisenstein-nov18.pdf","target":[{"source":"vault:/eisenstein-nov18.pdf","selector":[{"type":"TextPositionSelector","start":429522,"end":429813},{"type":"TextQuoteSelector","exact":"A classical problem in information extraction is to recognize and extract mentions ofnamed entities in text. In news documents, the core entity types are people, locations, andorganizations; more recently, the task has been extended to include amounts of money,percentages, dates, and times.","prefix":"ces.8.3 Named Entity Recognition","suffix":" In item 8.20a (Figure 8.2), the"}]}]}
+>```
+>%%
+>*%%PREFIX%%ces.8.3 Named Entity Recognition%%HIGHLIGHT%% ==A classical problem in information extraction is to recognize and extract mentions ofnamed entities in text. In news documents, the core entity types are people, locations, andorganizations; more recently, the task has been extended to include amounts of money,percentages, dates, and times.== %%POSTFIX%%In item 8.20a (Figure 8.2), the*
+>%%LINK%%[[#^t03ht2o9jef|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^t03ht2o9jef
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-04T05:53:03.185Z","updated":"2024-09-04T05:53:03.185Z","document":{"title":"eisenstein-nov18.pdf","link":[{"href":"urn:x-pdf:e0a254f5da629bd095f24a0b5f82578d"},{"href":"vault:/eisenstein-nov18.pdf"}],"documentFingerprint":"e0a254f5da629bd095f24a0b5f82578d"},"uri":"vault:/eisenstein-nov18.pdf","target":[{"source":"vault:/eisenstein-nov18.pdf","selector":[{"type":"TextPositionSelector","start":430808,"end":431061},{"type":"TextQuoteSelector","exact":"However, the named entity recogni-tion (NER) task would seem to be fundamentally different from sequence labeling taskslike part-of-speech tagging: rather than tagging each token, the goal in is to recover spansof tokens, such as The United States Army.","prefix":"h as conditional random fields. ","suffix":"This is accomplished by the BIO "}]}]}
+>```
+>%%
+>*%%PREFIX%%h as conditional random fields.%%HIGHLIGHT%% ==However, the named entity recogni-tion (NER) task would seem to be fundamentally different from sequence labeling taskslike part-of-speech tagging: rather than tagging each token, the goal in is to recover spansof tokens, such as The United States Army.== %%POSTFIX%%This is accomplished by the BIO*
+>%%LINK%%[[#^3983o2mwghh|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^3983o2mwghh
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-04T05:54:22.855Z","updated":"2024-09-04T05:54:22.855Z","document":{"title":"eisenstein-nov18.pdf","link":[{"href":"urn:x-pdf:e0a254f5da629bd095f24a0b5f82578d"},{"href":"vault:/eisenstein-nov18.pdf"}],"documentFingerprint":"e0a254f5da629bd095f24a0b5f82578d"},"uri":"vault:/eisenstein-nov18.pdf","target":[{"source":"vault:/eisenstein-nov18.pdf","selector":[{"type":"TextPositionSelector","start":431061,"end":431404},{"type":"TextQuoteSelector","exact":"This is accomplished by the BIO notation, shown in Figure 8.2. Each token at thebeginning of a name span is labeled with a B- prefix; each token within a name span is la-beled with an I- prefix. These prefixes are followed by a tag for the entity type, e.g. B-LOCfor the beginning of a location, and I-PROTEIN for the inside of a protein name.","prefix":" such as The United States Army.","suffix":" Tokensthat are not parts of nam"}]}]}
+>```
+>%%
+>*%%PREFIX%%such as The United States Army.%%HIGHLIGHT%% ==This is accomplished by the BIO notation, shown in Figure 8.2. Each token at thebeginning of a name span is labeled with a B- prefix; each token within a name span is la-beled with an I- prefix. These prefixes are followed by a tag for the entity type, e.g. B-LOCfor the beginning of a location, and I-PROTEIN for the inside of a protein name.== %%POSTFIX%%Tokensthat are not parts of nam*
+>%%LINK%%[[#^vp4xh5dikpf|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^vp4xh5dikpf
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-04T05:57:32.384Z","updated":"2024-09-04T05:57:32.384Z","document":{"title":"eisenstein-nov18.pdf","link":[{"href":"urn:x-pdf:e0a254f5da629bd095f24a0b5f82578d"},{"href":"vault:/eisenstein-nov18.pdf"}],"documentFingerprint":"e0a254f5da629bd095f24a0b5f82578d"},"uri":"vault:/eisenstein-nov18.pdf","target":[{"source":"vault:/eisenstein-nov18.pdf","selector":[{"type":"TextPositionSelector","start":432750,"end":432836},{"type":"TextQuoteSelector","exact":"Features can also be obtained from a gazetteer, which is a list of known entity names.","prefix":"IX-1:-y,SUFFIX-2:-my,SHAPE:Xxxx)","suffix":" Forexample, the U.S. Social Sec"}]}]}
+>```
+>%%
+>*%%PREFIX%%IX-1:-y,SUFFIX-2:-my,SHAPE:Xxxx)%%HIGHLIGHT%% ==Features can also be obtained from a gazetteer, which is a list of known entity names.== %%POSTFIX%%Forexample, the U.S. Social Sec*
+>%%LINK%%[[#^b9ank8zyvni|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^b9ank8zyvni
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-04T05:57:47.293Z","updated":"2024-09-04T05:57:47.293Z","document":{"title":"eisenstein-nov18.pdf","link":[{"href":"urn:x-pdf:e0a254f5da629bd095f24a0b5f82578d"},{"href":"vault:/eisenstein-nov18.pdf"}],"documentFingerprint":"e0a254f5da629bd095f24a0b5f82578d"},"uri":"vault:/eisenstein-nov18.pdf","target":[{"source":"vault:/eisenstein-nov18.pdf","selector":[{"type":"TextPositionSelector","start":433238,"end":433425},{"type":"TextQuoteSelector","exact":"Tokens or spansthat match an entry in a gazetteer can receive special features; this provides a way toincorporate hand-crafted resources such as name lists in a learning-driven framework.","prefix":"served in any annotated corpus. ","suffix":"Neural sequence labeling for NER"}]}]}
+>```
+>%%
+>*%%PREFIX%%served in any annotated corpus.%%HIGHLIGHT%% ==Tokens or spansthat match an entry in a gazetteer can receive special features; this provides a way toincorporate hand-crafted resources such as name lists in a learning-driven framework.== %%POSTFIX%%Neural sequence labeling for NER*
+>%%LINK%%[[#^37hu5jnuk7c|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^37hu5jnuk7c
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-04T05:58:59.028Z","updated":"2024-09-04T05:58:59.028Z","document":{"title":"eisenstein-nov18.pdf","link":[{"href":"urn:x-pdf:e0a254f5da629bd095f24a0b5f82578d"},{"href":"vault:/eisenstein-nov18.pdf"}],"documentFingerprint":"e0a254f5da629bd095f24a0b5f82578d"},"uri":"vault:/eisenstein-nov18.pdf","target":[{"source":"vault:/eisenstein-nov18.pdf","selector":[{"type":"TextPositionSelector","start":434248,"end":434635},{"type":"TextQuoteSelector","exact":"For alphabetic languages such as English, deterministic scriptsusually suffice to achieve accurate tokenization. However, in logographic writing systemssuch as Chinese script, words are typically composed of a small number of characters,without intervening whitespace. The tokenization must be determined by the reader, withthe potential for occasional ambiguity, as shown in Figure 8.3.","prefix":"a se-quence of discrete tokens. ","suffix":" One approach is to matchcharact"}]}]}
+>```
+>%%
+>*%%PREFIX%%a se-quence of discrete tokens.%%HIGHLIGHT%% ==For alphabetic languages such as English, deterministic scriptsusually suffice to achieve accurate tokenization. However, in logographic writing systemssuch as Chinese script, words are typically composed of a small number of characters,without intervening whitespace. The tokenization must be determined by the reader, withthe potential for occasional ambiguity, as shown in Figure 8.3.== %%POSTFIX%%One approach is to matchcharact*
+>%%LINK%%[[#^wr4k3k9gafg|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^wr4k3k9gafg
