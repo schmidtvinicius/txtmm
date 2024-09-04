@@ -884,3 +884,17 @@ annotation-target: ../eisenstein-nov18.pdf
 >%%TAGS%%
 >
 ^wr4k3k9gafg
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-04T07:36:40.810Z","text":"Should be \"leave\"","updated":"2024-09-04T07:36:40.810Z","document":{"title":"eisenstein-nov18.pdf","link":[{"href":"urn:x-pdf:e0a254f5da629bd095f24a0b5f82578d"},{"href":"vault:/eisenstein-nov18.pdf"}],"documentFingerprint":"e0a254f5da629bd095f24a0b5f82578d"},"uri":"vault:/eisenstein-nov18.pdf","target":[{"source":"vault:/eisenstein-nov18.pdf","selector":[{"type":"TextPositionSelector","start":208504,"end":208511},{"type":"TextQuoteSelector","exact":"leaving","prefix":"matizer The Williams sister are ","suffix":" this tennis centreFigure 4.2: S"}]}]}
+>```
+>%%
+>*%%PREFIX%%matizer The Williams sister are%%HIGHLIGHT%% ==leaving== %%POSTFIX%%this tennis centreFigure 4.2: S*
+>%%LINK%%[[#^8cjjmuf7enm|show annotation]]
+>%%COMMENT%%
+>Should be "leave"
+>%%TAGS%%
+>
+^8cjjmuf7enm
