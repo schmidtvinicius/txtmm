@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf-annotator",
               "state": {
-                "file": "04-09/Annotations eisenstein-nov18.md"
+                "file": "09-09/Annotations zhai2016.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-09/Annotations eisenstein-nov18.md",
+                "file": "09-09/Annotations zhai2016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-09/Annotations eisenstein-nov18.md",
+                "file": "09-09/Annotations zhai2016.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-09/Annotations eisenstein-nov18.md"
+                "file": "09-09/Annotations zhai2016.md"
               }
             }
           }
@@ -146,18 +146,19 @@
   },
   "active": "dc4d0048b032f5d1",
   "lastOpenFiles": [
+    "04-09/Annotations zhai2016.md",
+    "09-09/Annotations zhai2016.md",
+    "04-09/Annotations eisenstein-nov18.md",
+    "09-09",
     "assignment1/TxMM_assignment1_s1123702.ipynb",
     "assignment1/TxMM_Assignment1_NLP_2024.ipynb",
     "assignment1/Unconfirmed 323677.crdownload",
     "assignment1/tweets_clean.txt",
     "assignment1/tweets_clean.txt.crdownload",
     "assignment1",
-    "04-09/Annotations zhai2016.md",
-    "04-09/Annotations eisenstein-nov18.md",
     "eisenstein-nov18.pdf",
     "week1/Text mining facilitate materials discovery.pdf",
     "week1/Annotations.md",
-    "week1/isayev2019.pdf",
-    "week1/isayev2019.pdf.crdownload"
+    "week1/isayev2019.pdf"
   ]
 }
