@@ -860,3 +860,17 @@ annotation-target: ../zhai2016.pdf
 >%%TAGS%%
 >
 ^and05qqpu1i
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T11:10:21.625Z","updated":"2024-09-11T11:10:21.625Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":673139,"end":673386},{"type":"TextQuoteSelector","exact":"A classifier is a function f ( .) that takes a document vector as input and outputsa predicted label ˆy ∈ Y. Thus we could have f (x i) = sports. In this case, ˆy = sportsand the true y is also sports; the classifier was correct in its prediction.","prefix":" setup and yj could be politics.","suffix":"Notice how we can only evaluate "}]}]}
+>```
+>%%
+>*%%PREFIX%%setup and yj could be politics.%%HIGHLIGHT%% ==A classifier is a function f ( .) that takes a document vector as input and outputsa predicted label ˆy ∈ Y. Thus we could have f (x i) = sports. In this case, ˆy = sportsand the true y is also sports; the classifier was correct in its prediction.== %%POSTFIX%%Notice how we can only evaluate*
+>%%LINK%%[[#^3y4n09u7huv|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^3y4n09u7huv
