@@ -720,3 +720,143 @@ annotation-target: ../zhai2016.pdf
 >%%TAGS%%
 >
 ^eckw4mmyl1w
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T09:34:46.747Z","updated":"2024-09-11T09:34:46.747Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":664261,"end":664357},{"type":"TextQuoteSelector","exact":"At the very high level, text categorization is usually to help achieve two goals ofapplications.","prefix":"isis illustrated in Figure 15.1.","suffix":"1. To enrich text representation"}]}]}
+>```
+>%%
+>*%%PREFIX%%isis illustrated in Figure 15.1.%%HIGHLIGHT%% ==At the very high level, text categorization is usually to help achieve two goals ofapplications.== %%POSTFIX%%1. To enrich text representation*
+>%%LINK%%[[#^qf9quxq1eq|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^qf9quxq1eq
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T09:35:27.012Z","updated":"2024-09-11T09:35:27.012Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":664360,"end":664389},{"type":"TextQuoteSelector","exact":"To enrich text representation","prefix":"eve two goals ofapplications.1. ","suffix":" (i.e., achieving more understan"}]}]}
+>```
+>%%
+>*%%PREFIX%%eve two goals ofapplications.1.%%HIGHLIGHT%% ==To enrich text representation== %%POSTFIX%%(i.e., achieving more understan*
+>%%LINK%%[[#^yc20fkpb5km|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^yc20fkpb5km
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T09:35:32.280Z","updated":"2024-09-11T09:35:32.280Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":664535,"end":664601},{"type":"TextQuoteSelector","exact":".Insuchanapplication, wealsocalltextcategorizationtext annotation.","prefix":"iple levels(keywords+categories)","suffix":" For example, semantic categorie"}]}]}
+>```
+>%%
+>*%%PREFIX%%iple levels(keywords+categories)%%HIGHLIGHT%% ==.Insuchanapplication, wealsocalltextcategorizationtext annotation.== %%POSTFIX%%For example, semantic categorie*
+>%%LINK%%[[#^sgpkjw497ga|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^sgpkjw497ga
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T09:37:31.472Z","updated":"2024-09-11T09:37:31.472Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":665264,"end":665367},{"type":"TextQuoteSelector","exact":"To infer properties of entities associated with text data (i.e., discovery ofknowledge about the world)","prefix":"training examples available).2. ","suffix":": as long as an entity can be as"}]}]}
+>```
+>%%
+>*%%PREFIX%%training examples available).2.%%HIGHLIGHT%% ==To infer properties of entities associated with text data (i.e., discovery ofknowledge about the world)== %%POSTFIX%%: as long as an entity can be as*
+>%%LINK%%[[#^8z5mrnldeec|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^8z5mrnldeec
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T09:37:40.233Z","updated":"2024-09-11T09:37:40.233Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":665533,"end":665661},{"type":"TextQuoteSelector","exact":"For example, we can use the English textdata written by a person to predict whether the person is a non-native speakerof English","prefix":"gorize the associated entities. ","suffix":". Prediction of party affiliatio"}]}]}
+>```
+>%%
+>*%%PREFIX%%gorize the associated entities.%%HIGHLIGHT%% ==For example, we can use the English textdata written by a person to predict whether the person is a non-native speakerof English== %%POSTFIX%%. Prediction of party affiliatio*
+>%%LINK%%[[#^0zlef33zt6ea|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^0zlef33zt6ea
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T09:37:59.408Z","updated":"2024-09-11T09:37:59.408Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":665876,"end":665972},{"type":"TextQuoteSelector","exact":"Indeed,in such an application, text categorization should really be called text-basedprediction.","prefix":"gory and text content is large. ","suffix":"These two somewhat different goa"}]}]}
+>```
+>%%
+>*%%PREFIX%%gory and text content is large.%%HIGHLIGHT%% ==Indeed,in such an application, text categorization should really be called text-basedprediction.== %%POSTFIX%%These two somewhat different goa*
+>%%LINK%%[[#^jzxl37r2ps|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^jzxl37r2ps
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T09:39:27.671Z","updated":"2024-09-11T09:39:27.671Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":666088,"end":666577},{"type":"TextQuoteSelector","exact":"For the purpose of enriching text rep-resentation, the categories tend to be “internal” categories that characterize a textobject (e.g., topical categories, sentiment categories). For the purpose of inferringproperties of associated entities with text data, the categories tend to be “external”categories that characterize an entity associated with the text object (e.g., author at-tribution or any other meaningful categories associated with text data, potentiallythrough indirect links).","prefix":"in the categories in each case. ","suffix":" Computationally, however, these"}]}]}
+>```
+>%%
+>*%%PREFIX%%in the categories in each case.%%HIGHLIGHT%% ==For the purpose of enriching text rep-resentation, the categories tend to be “internal” categories that characterize a textobject (e.g., topical categories, sentiment categories). For the purpose of inferringproperties of associated entities with text data, the categories tend to be “external”categories that characterize an entity associated with the text object (e.g., author at-tribution or any other meaningful categories associated with text data, potentiallythrough indirect links).== %%POSTFIX%%Computationally, however, these*
+>%%LINK%%[[#^9edgrq8pfgd|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^9edgrq8pfgd
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T09:41:40.472Z","updated":"2024-09-11T09:41:40.472Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":667481,"end":667868},{"type":"TextQuoteSelector","exact":"Such a rule-based manual approach would work well if: (1) the categories arevery clearly defined (usually means that the categories are relatively simple); (2) thecategories are easily distinguished based on surface features in text (e.g., particularwords only occur in a particular category of documents); and (3) sufficient domainknowledge is available to suggest many effective rules.","prefix":"cific problem of categorization.","suffix":"However, the manual approach has"}]}]}
+>```
+>%%
+>*%%PREFIX%%cific problem of categorization.%%HIGHLIGHT%% ==Such a rule-based manual approach would work well if: (1) the categories arevery clearly defined (usually means that the categories are relatively simple); (2) thecategories are easily distinguished based on surface features in text (e.g., particularwords only occur in a particular category of documents); and (3) sufficient domainknowledge is available to suggest many effective rules.== %%POSTFIX%%However, the manual approach has*
+>%%LINK%%[[#^kgecvz3smro|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^kgecvz3smro
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T09:42:52.953Z","updated":"2024-09-11T09:42:52.953Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":668440,"end":668906},{"type":"TextQuoteSelector","exact":"These problems with the rule-based manual approach can mostly be addressedby using machine learning where humans would help the machine by labelingsome examples with the correct categories (i.e., creating training examples), andthe machine will learn from these examples to somewhat automatically constructrules for categorization, only that the rules are somewhat “soft” and weighted, andhow the rules should be combined is also learned based on the training data. ","prefix":"f application of differentrules.","suffix":"Notethat although in such a supe"}]}]}
+>```
+>%%
+>*%%PREFIX%%f application of differentrules.%%HIGHLIGHT%% ==These problems with the rule-based manual approach can mostly be addressedby using machine learning where humans would help the machine by labelingsome examples with the correct categories (i.e., creating training examples), andthe machine will learn from these examples to somewhat automatically constructrules for categorization, only that the rules are somewhat “soft” and weighted, andhow the rules should be combined is also learned based on the training data.== %%POSTFIX%%Notethat although in such a supe*
+>%%LINK%%[[#^5o9xe4qfz5h|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^5o9xe4qfz5h
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T09:45:57.167Z","updated":"2024-09-11T09:45:57.167Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":669817,"end":670135},{"type":"TextQuoteSelector","exact":"In general, all these learning-based categorization methods rely on discrimina-tive features of text objects to distinguish categories, and they would combine mul-tiple features in a weighted manner where the weights are automatically learned(i.e., adjusted to minimize errors of categorization on the training data). ","prefix":" categorize any unseentext data.","suffix":"Differentmethods tend to vary in"}]}]}
+>```
+>%%
+>*%%PREFIX%%categorize any unseentext data.%%HIGHLIGHT%% ==In general, all these learning-based categorization methods rely on discrimina-tive features of text objects to distinguish categories, and they would combine mul-tiple features in a weighted manner where the weights are automatically learned(i.e., adjusted to minimize errors of categorization on the training data).== %%POSTFIX%%Differentmethods tend to vary in*
+>%%LINK%%[[#^and05qqpu1i|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^and05qqpu1i
