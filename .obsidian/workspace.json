@@ -16,8 +16,21 @@
                 "file": "09-09/Annotations zhai2016.md"
               }
             }
+          },
+          {
+            "id": "a88d9f664aba62c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09-09/Annotations zhai2016.md",
+                "file": "Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09-09/Annotations zhai2016.md",
+                "file": "Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09-09/Annotations zhai2016.md"
+                "file": "Project.md"
               }
             }
           }
@@ -144,10 +157,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc4d0048b032f5d1",
+  "active": "a88d9f664aba62c3",
   "lastOpenFiles": [
-    "04-09/Annotations zhai2016.md",
     "09-09/Annotations zhai2016.md",
+    "Project.md",
+    "04-09/Annotations zhai2016.md",
     "04-09/Annotations eisenstein-nov18.md",
     "09-09",
     "assignment1/TxMM_assignment1_s1123702.ipynb",
