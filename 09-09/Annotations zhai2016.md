@@ -874,3 +874,115 @@ annotation-target: ../zhai2016.pdf
 >%%TAGS%%
 >
 ^3y4n09u7huv
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T12:14:55.882Z","updated":"2024-09-11T12:14:55.882Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":675578,"end":675820},{"type":"TextQuoteSelector","exact":"In Chapter 6 we emphasized the importance of the document representation inretrieval performance. In Chapter 2, we emphasized the importance of the featurerepresentation in general. The case is the same—if not greater—in text categoriza-tion.","prefix":"Features for Text Categorization","suffix":" Suppose we wish to determine wh"}]}]}
+>```
+>%%
+>*%%PREFIX%%Features for Text Categorization%%HIGHLIGHT%% ==In Chapter 6 we emphasized the importance of the document representation inretrieval performance. In Chapter 2, we emphasized the importance of the featurerepresentation in general. The case is the same—if not greater—in text categoriza-tion.== %%POSTFIX%%Suppose we wish to determine wh*
+>%%LINK%%[[#^u6eqbizse9|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^u6eqbizse9
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T12:16:46.143Z","updated":"2024-09-11T12:16:46.143Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":677773,"end":677929},{"type":"TextQuoteSelector","exact":"Clearly, a bigram words representation would most likely give better perfor-mance since we can capture not good and not bad as well as was good and was bad.","prefix":"ures for Text Categorization 305","suffix":"As a counterexample, using only "}]}]}
+>```
+>%%
+>*%%PREFIX%%ures for Text Categorization 305%%HIGHLIGHT%% ==Clearly, a bigram words representation would most likely give better perfor-mance since we can capture not good and not bad as well as was good and was bad.== %%POSTFIX%%As a counterexample, using only*
+>%%LINK%%[[#^reh3qfscg3h|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^reh3qfscg3h
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T12:17:49.733Z","updated":"2024-09-11T12:17:49.733Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":678311,"end":678471},{"type":"TextQuoteSelector","exact":"Due to this phe-nomenon, it is very common to combine multiple feature sets together. In thiscase, we can tokenize documents with both unigram and bigram words.","prefix":"ermining the sentence polarity. ","suffix":"A well-known strategy discussed "}]}]}
+>```
+>%%
+>*%%PREFIX%%ermining the sentence polarity.%%HIGHLIGHT%% ==Due to this phe-nomenon, it is very common to combine multiple feature sets together. In thiscase, we can tokenize documents with both unigram and bigram words.== %%POSTFIX%%A well-known strategy discussed*
+>%%LINK%%[[#^ez34hw9i27a|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ez34hw9i27a
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T12:18:27.034Z","updated":"2024-09-11T12:18:27.034Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":678471,"end":678773},{"type":"TextQuoteSelector","exact":"A well-known strategy discussed in Stamatatos [2009] shows that low-level lexicalfeatures combined with high-level syntactic features give the best performance in aclassifier. These two types of features are more orthogonal, thus capturing differentperspectives of the text to enrich the feature space.","prefix":"h both unigram and bigram words.","suffix":" Having many different types off"}]}]}
+>```
+>%%
+>*%%PREFIX%%h both unigram and bigram words.%%HIGHLIGHT%% ==A well-known strategy discussed in Stamatatos [2009] shows that low-level lexicalfeatures combined with high-level syntactic features give the best performance in aclassifier. These two types of features are more orthogonal, thus capturing differentperspectives of the text to enrich the feature space.== %%POSTFIX%%Having many different types off*
+>%%LINK%%[[#^nxgyu7gpav|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^nxgyu7gpav
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T12:20:19.207Z","updated":"2024-09-11T12:20:19.207Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":680136,"end":680316},{"type":"TextQuoteSelector","exact":"The authors foundthat these structural features combined with low-level lexical features (i.e., unigramwords) improved the classification accuracy over using only one feature type.","prefix":"ntactic category labels at all. ","suffix":"Another interesting feature gene"}]}]}
+>```
+>%%
+>*%%PREFIX%%ntactic category labels at all.%%HIGHLIGHT%% ==The authors foundthat these structural features combined with low-level lexical features (i.e., unigramwords) improved the classification accuracy over using only one feature type.== %%POSTFIX%%Another interesting feature gene*
+>%%LINK%%[[#^6lmqxtwexz9|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^6lmqxtwexz9
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T12:21:48.593Z","updated":"2024-09-11T12:21:48.593Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":680425,"end":680583},{"type":"TextQuoteSelector","exact":". The idea of SYNTACTICDIFF is to define threebasic (and therefore general) edit operations: insert a word, remove a word,and substitute one word for another.","prefix":" [2015] and called SYNTACTICDIFF","suffix":" These edits are used to transfo"}]}]}
+>```
+>%%
+>*%%PREFIX%%[2015] and called SYNTACTICDIFF%%HIGHLIGHT%% ==. The idea of SYNTACTICDIFF is to define threebasic (and therefore general) edit operations: insert a word, remove a word,and substitute one word for another.== %%POSTFIX%%These edits are used to transfo*
+>%%LINK%%[[#^2g4mxqs9w0m|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^2g4mxqs9w0m
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T12:23:37.090Z","updated":"2024-09-11T12:23:37.090Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":681576,"end":681972},{"type":"TextQuoteSelector","exact":"Again, it’s important to em-phasize that almost all machine learning algorithms are not affected by the type offeatures employed (in terms of operation; of course, the accuracy may be affected).Since internally the machine learning algorithms will simply refer to each featureas an ID, the algorithm may never even know if it’s operating on a parse tree, a word,bigram POS tags, or edit features.","prefix":"ive languages of essay writers. ","suffix":"The NLP pipeline discussed in Ch"}]}]}
+>```
+>%%
+>*%%PREFIX%%ive languages of essay writers.%%HIGHLIGHT%% ==Again, it’s important to em-phasize that almost all machine learning algorithms are not affected by the type offeatures employed (in terms of operation; of course, the accuracy may be affected).Since internally the machine learning algorithms will simply refer to each featureas an ID, the algorithm may never even know if it’s operating on a parse tree, a word,bigram POS tags, or edit features.== %%POSTFIX%%The NLP pipeline discussed in Ch*
+>%%LINK%%[[#^f0vy3hwmdcl|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^f0vy3hwmdcl
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T12:39:10.924Z","updated":"2024-09-11T12:39:10.924Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":697740,"end":698553},{"type":"TextQuoteSelector","exact":"Another evaluation paradigm is n-fold cross validation. This splits the corpusinto n partitions. In n rounds, one partition is selected as the testing set and theremaining n − 1 are used for training. The final accuracy, F1 score, or any otherevaluation metric is then averaged over the n folds. The variance in scores betweenthe folds can be a hint at the overfitting potential of your algorithm. If the varianceis high, it means that the accuracies are not very similar between folds. Havingone fold with a very high accuracy suggests that your learning algorithm may haveoverfit during that training stage; when using that trained algorithm on a separatecorpus, it’s likely that the accuracy would be very low since it modeled noise or otheruninformative features from that particular split (i.e., it overfit).","prefix":"f it is not prone tooverfitting.","suffix":"Another important concept is bas"}]}]}
+>```
+>%%
+>*%%PREFIX%%f it is not prone tooverfitting.%%HIGHLIGHT%% ==Another evaluation paradigm is n-fold cross validation. This splits the corpusinto n partitions. In n rounds, one partition is selected as the testing set and theremaining n − 1 are used for training. The final accuracy, F1 score, or any otherevaluation metric is then averaged over the n folds. The variance in scores betweenthe folds can be a hint at the overfitting potential of your algorithm. If the varianceis high, it means that the accuracies are not very similar between folds. Havingone fold with a very high accuracy suggests that your learning algorithm may haveoverfit during that training stage; when using that trained algorithm on a separatecorpus, it’s likely that the accuracy would be very low since it modeled noise or otheruninformative features from that particular split (i.e., it overfit).== %%POSTFIX%%Another important concept is bas*
+>%%LINK%%[[#^teota1ev5rh|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^teota1ev5rh
