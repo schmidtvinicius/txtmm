@@ -986,3 +986,143 @@ annotation-target: ../zhai2016.pdf
 >%%TAGS%%
 >
 ^teota1ev5rh
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-15T19:57:16.863Z","updated":"2024-09-15T19:57:16.863Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":729944,"end":730104},{"type":"TextQuoteSelector","exact":"For example, we can talk about the topicof a sentence, the topic of an article, the topic of a paragraph, or the topic of allthe research articles in a library.","prefix":"n have different granularities. ","suffix":" Different granularities of topi"}]}]}
+>```
+>%%
+>*%%PREFIX%%n have different granularities.%%HIGHLIGHT%% ==For example, we can talk about the topicof a sentence, the topic of an article, the topic of a paragraph, or the topic of allthe research articles in a library.== %%POSTFIX%%Different granularities of topi*
+>%%LINK%%[[#^afc0v6nyar5|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^afc0v6nyar5
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-15T19:58:25.889Z","updated":"2024-09-15T19:58:25.889Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":731194,"end":731473},{"type":"TextQuoteSelector","exact":"We can view a topic as describing some knowledge about the world as shownin Figure 17.1. From text data, we want to discover a number of topics which canprovide a description about the world. That is, a topic tells us something about theworld (e.g., about a product or a person).","prefix":"is a main topic of this chapter.","suffix":"Besides text data, we often also"}]}]}
+>```
+>%%
+>*%%PREFIX%%is a main topic of this chapter.%%HIGHLIGHT%% ==We can view a topic as describing some knowledge about the world as shownin Figure 17.1. From text data, we want to discover a number of topics which canprovide a description about the world. That is, a topic tells us something about theworld (e.g., about a product or a person).== %%POSTFIX%%Besides text data, we often also*
+>%%LINK%%[[#^ztiqs57vuci|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ztiqs57vuci
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-15T19:59:10.318Z","updated":"2024-09-15T19:59:10.318Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":734748,"end":734909},{"type":"TextQuoteSelector","exact":"All such metadata (or context variables) canbe associated with the topics that we discover, and we can then use these contextvariables to analyze topic patterns.","prefix":"xt, or the sources of the text. ","suffix":"For example, looking at topics o"}]}]}
+>```
+>%%
+>*%%PREFIX%%xt, or the sources of the text.%%HIGHLIGHT%% ==All such metadata (or context variables) canbe associated with the topics that we discover, and we can then use these contextvariables to analyze topic patterns.== %%POSTFIX%%For example, looking at topics o*
+>%%LINK%%[[#^knxdul9nmd|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^knxdul9nmd
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-15T20:01:16.071Z","updated":"2024-09-15T20:01:16.071Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":735173,"end":735436},{"type":"TextQuoteSelector","exact":"Let’s look at the tasks of topic mining and analysis. As shown in Figure 17.2,topic analysis first involves discovering a number of topics. In this case, there are ktopics. We also would like to know which topics are covered in which documents,and to what extent.","prefix":" opinions indifferent locations.","suffix":" For example, in Doc 1, the visu"}]}]}
+>```
+>%%
+>*%%PREFIX%%opinions indifferent locations.%%HIGHLIGHT%% ==Let’s look at the tasks of topic mining and analysis. As shown in Figure 17.2,topic analysis first involves discovering a number of topics. In this case, there are ktopics. We also would like to know which topics are covered in which documents,and to what extent.== %%POSTFIX%%For example, in Doc 1, the visu*
+>%%LINK%%[[#^41zfvlelysx|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^41zfvlelysx
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-15T20:01:27.521Z","updated":"2024-09-15T20:01:27.521Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":735698,"end":735905},{"type":"TextQuoteSelector","exact":"Thus, there are generally two different tasks or sub-tasks: the first is to discover the k topics from a collection of text; the second taskis to figure out which documents cover which topics to what extent.","prefix":"ocovers Topic k to some extent. ","suffix":"More formally, we can define the"}]}]}
+>```
+>%%
+>*%%PREFIX%%ocovers Topic k to some extent.%%HIGHLIGHT%% ==Thus, there are generally two different tasks or sub-tasks: the first is to discover the k topics from a collection of text; the second taskis to figure out which documents cover which topics to what extent.== %%POSTFIX%%More formally, we can define the*
+>%%LINK%%[[#^4yx89t1ltjd|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^4yx89t1ltjd
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-15T20:03:35.173Z","updated":"2024-09-15T20:03:35.173Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":739848,"end":740111},{"type":"TextQuoteSelector","exact":"For each document,we have a set of such π values to indicate to what extent the document covers eachtopic. We assume that these probabilities sum to one, which means that we assumea document won’t be able to cover other topics outside of the topics we discovered.","prefix":"document di covering topic θj . ","suffix":"Now, the next question is, how d"}]}]}
+>```
+>%%
+>*%%PREFIX%%document di covering topic θj .%%HIGHLIGHT%% ==For each document,we have a set of such π values to indicate to what extent the document covers eachtopic. We assume that these probabilities sum to one, which means that we assumea document won’t be able to cover other topics outside of the topics we discovered.== %%POSTFIX%%Now, the next question is, how d*
+>%%LINK%%[[#^5vfk9v3swc|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^5vfk9v3swc
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-15T20:06:32.853Z","updated":"2024-09-15T20:06:32.853Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":866648,"end":866859},{"type":"TextQuoteSelector","exact":"Topic analysis evaluation has similar difficulties to information retrieval evalua-tion. In both cases, there is usually not one true answer, and evaluation metricsheavily depend on the human issuing judgements.","prefix":"r.17.6 Evaluating Topic Analysis","suffix":" What defines a topic? We ad-dre"}]}]}
+>```
+>%%
+>*%%PREFIX%%r.17.6 Evaluating Topic Analysis%%HIGHLIGHT%% ==Topic analysis evaluation has similar difficulties to information retrieval evalua-tion. In both cases, there is usually not one true answer, and evaluation metricsheavily depend on the human issuing judgements.== %%POSTFIX%%What defines a topic? We ad-dre*
+>%%LINK%%[[#^j9a3hmjtpoa|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^j9a3hmjtpoa
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-15T20:11:11.764Z","updated":"2024-09-15T20:11:11.764Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":867064,"end":867521},{"type":"TextQuoteSelector","exact":"Log-likelihood and model perplexity are two common evaluation measures usedby language models, and they can be applied for topic analysis in the same way. Bothare predictive measures, meaning that held-out data is presented to the model andthe model is applied to this new information, calculating its likelihood. If the modelgeneralizes well to this new data (by assigning it a high likelihood or low perplexity),then the model is assumed to be sufficient.","prefix":"s the eventual eval-uation task.","suffix":"In Chapter 13, we mentioned Chan"}]}]}
+>```
+>%%
+>*%%PREFIX%%s the eventual eval-uation task.%%HIGHLIGHT%% ==Log-likelihood and model perplexity are two common evaluation measures usedby language models, and they can be applied for topic analysis in the same way. Bothare predictive measures, meaning that held-out data is presented to the model andthe model is applied to this new information, calculating its likelihood. If the modelgeneralizes well to this new data (by assigning it a high likelihood or low perplexity),then the model is assumed to be sufficient.== %%POSTFIX%%In Chapter 13, we mentioned Chan*
+>%%LINK%%[[#^eapwj7sb2v|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^eapwj7sb2v
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-15T20:13:11.178Z","updated":"2024-09-15T20:13:11.178Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":868902,"end":869140},{"type":"TextQuoteSelector","exact":"“Traditional metrics” refers to log-likelihood of held-out data in the case of gen-erative models. This misalignment of results is certainly a pressing issue, thoughmostrecentresearchstillreliesonthetraditionalmeasurestoevaluatenewmodels.","prefix":"th themeasures of topic quality.","suffix":"Downstream task improvement is p"}]}]}
+>```
+>%%
+>*%%PREFIX%%th themeasures of topic quality.%%HIGHLIGHT%% ==“Traditional metrics” refers to log-likelihood of held-out data in the case of gen-erative models. This misalignment of results is certainly a pressing issue, thoughmostrecentresearchstillreliesonthetraditionalmeasurestoevaluatenewmodels.== %%POSTFIX%%Downstream task improvement is p*
+>%%LINK%%[[#^pqwdjn4ra1|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^pqwdjn4ra1
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-15T20:13:59.295Z","updated":"2024-09-15T20:13:59.295Z","document":{"title":"Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining","link":[{"href":"urn:x-pdf:a97cd36006c8be145ebab77b4be0f3a0"},{"href":"vault:/zhai2016.pdf"}],"documentFingerprint":"a97cd36006c8be145ebab77b4be0f3a0"},"uri":"vault:/zhai2016.pdf","target":[{"source":"vault:/zhai2016.pdf","selector":[{"type":"TextPositionSelector","start":869551,"end":869770},{"type":"TextQuoteSelector","exact":"In such a case, log-likelihood of held-out data and even topic coherency is not aconcern if the classification accuracy improves—although model interpretabilitymay be compromised if topics are not human-distinguishable.","prefix":"the metric we’d wish to improve.","suffix":"17.7 Summary of Topic ModelsIn s"}]}]}
+>```
+>%%
+>*%%PREFIX%%the metric we’d wish to improve.%%HIGHLIGHT%% ==In such a case, log-likelihood of held-out data and even topic coherency is not aconcern if the classification accuracy improves—although model interpretabilitymay be compromised if topics are not human-distinguishable.== %%POSTFIX%%17.7 Summary of Topic ModelsIn s*
+>%%LINK%%[[#^onwg62yohlg|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^onwg62yohlg
