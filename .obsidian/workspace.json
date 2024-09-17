@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aaed15ff73d0b45e",
+            "id": "dc4d0048b032f5d1",
             "type": "leaf",
             "state": {
               "type": "pdf-annotator",
@@ -144,7 +144,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aaed15ff73d0b45e",
+  "active": "dc4d0048b032f5d1",
   "lastOpenFiles": [
     "09-09/Annotations zhai2016.md",
     "18-09/Annotations eisenstein.md",
