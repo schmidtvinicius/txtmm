@@ -523,3 +523,17 @@ annotation-target: ../eisenstein-nov18.pdf
 >%%TAGS%%
 >
 ^vcur1l0jhoq
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-18T09:20:03.987Z","updated":"2024-09-18T09:20:03.987Z","document":{"title":"eisenstein-nov18.pdf","link":[{"href":"urn:x-pdf:e0a254f5da629bd095f24a0b5f82578d"},{"href":"vault:/eisenstein-nov18.pdf"}],"documentFingerprint":"e0a254f5da629bd095f24a0b5f82578d"},"uri":"vault:/eisenstein-nov18.pdf","target":[{"source":"vault:/eisenstein-nov18.pdf","selector":[{"type":"TextPositionSelector","start":947144,"end":947424},{"type":"TextQuoteSelector","exact":"In event detection, a schema is provided foreach event type (e.g., an election, a terrorist attack, or a chemical reaction), indicating allthe possible properties of the event. The system is then required to fill in as many of theseproperties as possible (Doddington et al., 2004)","prefix":"elected (MAYNARD JACKSON, JR.). ","suffix":".Event detection systems general"}]}]}
+>```
+>%%
+>*%%PREFIX%%elected (MAYNARD JACKSON, JR.).%%HIGHLIGHT%% ==In event detection, a schema is provided foreach event type (e.g., an election, a terrorist attack, or a chemical reaction), indicating allthe possible properties of the event. The system is then required to fill in as many of theseproperties as possible (Doddington et al., 2004)== %%POSTFIX%%.Event detection systems general*
+>%%LINK%%[[#^zmg4h0xou8c|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^zmg4h0xou8c
