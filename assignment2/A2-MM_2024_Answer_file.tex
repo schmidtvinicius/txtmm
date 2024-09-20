@@ -1,0 +1,214 @@
+\documentclass[11pt]{article}
+
+\usepackage{listings}
+\usepackage{color}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\lstset{frame=tb,
+  language=Python,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=none,
+  numberstyle=\tiny\color{gray},
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true,
+  tabsize=3
+}
+
+    \title{TxMM A2 - Multimedia Clustering}
+    \author{students: *Student names and student numbers* \\ A2-MM Group: *group number*}
+    \date{}
+\begin{document}
+
+\maketitle
+
+\section{First impression}
+
+\textbf{Question 1:} Look at the images. Make three observations concerning the objects and scenes that you see depicted in the images (in computer vision, what people see in images is referred to as the “semantic content” of the image or "semantic properties").
+
+\textbf{Answer:}
+
+
+\noindent\textbf{Question 2:} Now, look at the images again, and make three observations that are not related to objects and scenes, but rather are related to the style and quality of images.
+
+\textbf{Answer:}
+
+
+\section{Clustering on simple features}
+\subsection{Simple feature 1: Average color}
+
+\textbf{Task 1:}  Implement the function \texttt{average\_color} in the cell below using the information provided in the comments. (Hint: Remember that the original image can be accessed via \texttt{image\_dict['original']}, and that you can convert this original image to a numpy array. (As a sanity check, make sure that you understand why the vector representation consists of three components in this case.))
+
+\textbf{Your code:}
+
+\begin{lstlisting}
+
+def average_color(image_dict):
+  '''
+  A function to compute the average RGB value of an image.
+  First, average over rows to obtain an average value per column.
+  Then, average over the resulting values to obtain one average value per color
+  channel.
+
+  :param image_dict:  The dictionary containing the loaded image
+  :return:            A 3-dimensional np array: 1 average per color channel
+  '''
+  raise NotImplementedError()  # Your code goes here
+  
+\end{lstlisting}
+
+
+\noindent\textbf{Question 3:} Subsequently look at the images with indices 102, 153, 245, 439 and 555 and their average color by changing the index in the cell above. Then discuss and decide: Is this a good representation for color images or not (and why)? Describe a potential issue that you notice.
+
+\textbf{Answer:}
+
+
+\noindent\textbf{Question 4:} Inspect the image montages. Do all clusters make equal sense to you, intuitively? Look at the 3-dimensional scatter plot again. Do you see a reason why/why not?
+
+\textbf{Answer:}
+
+
+\subsection{Simple feature 2: Color histograms}
+
+\noindent\textbf{Task 2:} Change the color histogram function below so that it uses 32 bins per color channel. Then run the second cell and inspect the results.
+
+\textbf{Your code:}
+
+\begin{lstlisting}
+def color_histogram_32bins(image_dict):
+  '''
+  Compute the normalized color histogram binned into 32x32x32 bins from the RGB image.
+  :param image_dict:  The dictionary containing the loaded image
+  :return:            A 32768-dimensional np array
+  '''
+  # extract a 3D color histogram from the RGB color space
+  im = image_dict['cv2']
+  hist = cv2.calcHist([im], [0, 1, 2], None, [3,3,3], [0, 256, 0, 256, 0, 256])
+  # normalize the histogram
+  hist = cv2.normalize(hist,hist)
+  # return the flattened histogram as the feature vector
+  return hist.flatten()
+ 
+\end{lstlisting} 
+
+
+\noindent\textbf{Question 5:} Do you think that more bins helped us in the clustering? Why?
+
+\textbf{Answer:}
+
+
+\noindent\textbf{Task 3:} Perform clustering with 12 clusters on the \texttt{chist\_32bins\_feature\_vectors} and display the montages for these clusters in the cell below.
+
+\textbf{Your code:}
+\begin{lstlisting}
+y_kmeans_chist_12 = None # Your code goes here
+show_images_in_clusters(y_kmeans_chist_12, sample_pathnames, sample_images)
+
+y_kmeans_chist_24 = None # Your code goes here
+show_images_in_clusters(y_kmeans_chist_24, sample_pathnames, sample_images)
+\end{lstlisting}
+
+
+\noindent\textbf{Question 6:} Which are the major cluster changes when increasing the number of clusters to 12 and then to 24? What does this tell us about our dataset's images? (Hint: You don't need to point out every small detail. Please try to answer this question at a high-level.)
+
+\textbf{Answer:}
+
+
+\noindent\textbf{Question 7:} Looking at the semantic content of the clusters, which of the choices of the number of clusters do you find to be best-suited for our dataset using the color histogram feature vectors? Why?
+
+\textbf{Answer:}
+
+
+\subsection{Simple feature 3: Histogram of Oriented Gradients (HOG)}
+
+\noindent\textbf{Question 8:} Do you think that all images are in the 'correct' cluster? Do you think 8 is a good number of clusters for HOG features, considering the images' semantic content? Why?
+
+\textbf{Answer:}
+
+
+\section{Clustering using neural representations}
+
+\textbf{Task 4:} Now systematically vary the number of clusters in the cell below. Try out both more and fewer clusters. Then answer the questions below. (\textit{No need to copy anything here})
+
+
+\noindent\textbf{Question 9:} Which numbers did you try out? Which number of clusters worked best for you? How did you make this decision?
+
+\textbf{Answer:}
+
+
+\noindent\textbf{Question 10:} What does this tell us about the neural representations?
+
+\textbf{Answer:}
+
+
+\noindent\textbf{Question 11:} Reflect on the "clustering bias". For each of the four image representation approaches, answer the following four subquestions:
+
+\begin{enumerate}
+\item Which semantic properties play a decisive role when clustering the images in the dataset using this representation? By which semantic properties are the images grouped? Remember "semantic properties" refer to what people ("human users") see in images
+\item Which semantic properties play no decisive role?
+\item Why? What causes the phenomena you observed in the first two subquestions?
+\item When (i.e. for which kind of clustering problem) would you use this image representation?
+    
+\end{enumerate}
+    
+\textbf{Answer:}
+\paragraph{Average color:}
+\begin{itemize}
+\item Semantic properties: Decisive role:
+
+\item Semantic properties: No decisive role:
+
+\item Why?:
+
+\item When to use:
+\end{itemize}
+
+\paragraph{Color histograms:}
+\begin{itemize}
+\item Semantic properties: Decisive role:
+
+\item Semantic properties: No decisive role:
+
+\item Why?:
+
+\item When to use:
+\end{itemize}
+
+\paragraph{HOG:}
+\begin{itemize}
+\item Semantic properties: Decisive role:
+
+\item Semantic properties: No decisive role:
+
+\item Why?:
+
+\item When to use:
+\end{itemize}
+
+\paragraph{Neural representations:}
+\begin{itemize}
+\item Semantic properties: Decisive role:
+
+\item Semantic properties: No decisive role:
+
+\item Why?:
+
+\item When to use:
+\end{itemize}
+
+
+\noindent\textbf{Question 12:} At the beginning of the assignment, we told you that the data set contained Paris landmarks. However, now you have carried out a clustering study, you have gained more insight into the semantic content of the images in the data set. What have you discovered?
+
+\textbf{Answer:}
+
+\end{document}
+
