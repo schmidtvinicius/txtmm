@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "60681343b4d1586f",
+        "id": "a43a70c8f1d3b4dd",
         "type": "tabs",
         "children": [
           {
-            "id": "dc4d0048b032f5d1",
+            "id": "15b52591eb968a4c",
             "type": "leaf",
             "state": {
               "type": "pdf-annotator",
               "state": {
-                "file": "18-09/Annotations eisenstein.md"
+                "file": "23-09/Annotations.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "18-09/Annotations eisenstein.md",
+                "file": "23-09/Annotations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "18-09/Annotations eisenstein.md",
+                "file": "23-09/Annotations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "18-09/Annotations eisenstein.md"
+                "file": "23-09/Annotations.md"
               }
             }
           }
@@ -144,10 +144,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc4d0048b032f5d1",
+  "active": "15b52591eb968a4c",
   "lastOpenFiles": [
-    "09-09/Annotations zhai2016.md",
+    "23-09/Microsoft Word - liub-SA-and-OM-book.pdf",
+    "23-09/Annotations.md",
     "18-09/Annotations eisenstein.md",
+    "09-09/Annotations zhai2016.md",
     "18-09",
     "Project.md",
     "04-09/Annotations zhai2016.md",
