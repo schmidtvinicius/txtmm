@@ -1,0 +1,17 @@
+Fei-Fei Li (born July 3, 1976) is a Chinese-American computer scientist, known for establishing ImageNet, the dataset that enabled rapid advances in computer vision in the 2010s. She is the Sequoia Capital professor of computer science at Stanford University and former board director at Twitter. Li is a co-director of the Stanford Institute for Human-Centered Artificial Intelligence and a co-director of the Stanford Vision and Learning Lab. She served as the director of the Stanford Artificial Intelligence Laboratory from 2013 to 2018.
+
+In 2017, she co-founded AI4ALL, a nonprofit organization working to increase diversity and inclusion in the field of artificial intelligence. Her research expertise includes artificial intelligence, machine learning, deep learning, computer vision and cognitive neuroscience.
+
+In September 2017, Google secured a contract from the Department of Defense called Project Maven, which aimed to use AI techniques to interpret images captured by drone cameras. Google told employees who protested the company's work on Project Maven that their role was "specifically scoped to be for non-offensive purposes." In June 2018, Google told employees it would not seek renewal of the contract. In internal emails which were later leaked to reporters, Li expressed enthusiasm for the Google Cloud role in Project Maven, but warned against mentioning its AI component, saying that military AI is linked in the public mind with the danger of autonomous weapons. Asked about those leaked emails, Li told The New York Times, "I believe in human-centered AI to benefit people in positive and benevolent ways. It is deeply against my principles to work on any project that I think is to weaponize AI."
+
+In the fall of 2018, Li left Google and returned to Stanford University to continue her professorship.
+
+In May 2020, Li joined the board of directors of Twitter as an independent director. On October 27, 2022, following Elon Musk’s purchase of the company, Li and eight others were removed from Twitter's nine-member board of directors, leaving Elon as the sole director.
+
+On 3 August 2023, Li Fei Fei was announced as a member of the United Nations (UN) Scientific Advisory Board, established by Secretary-General António Guterres.
+
+Li was named in the Time 100 AI Most Influential People list in 2023 and received the Intel Lifetime Achievements Innovation Award in the same year for her contributions to artificial intelligence. She was elected as a member of the National Academy of Engineering and the National Academy of Medicine in 2020, and the American Academy of Arts and Sciences in 2021.
+
+On August 3, 2023, it was announced that Li was appointed to the United Nations Scientific Advisory Board, established by Secretary-General Antonio Guterres. In 2024, Li made to the Gold House’s most impactful Asian A100 list.
+
+Text from https://en.wikipedia.org/wiki/Fei-Fei_Li, adapted by the teaching team.
