@@ -1,101 +1,2737 @@
-title,artist
-"Acordando o Prédio","Luan Santana"
-"Vidinha de balada","Henrique e Juliano"
-"Cadeira de aço","Zé Neto e Cristiano"
-"Sorte Que Cê Beija Bem","Maiara e Maraisa"
-"Abre o Portão Que Eu Cheguei","Gusttavo Lima"
-"Amante Não Tem Lar","Marília Mendonça"
-"Loka","Simone & Simaria ft Anitta"
-"Regime Fechado","Simone & Simaria"
-"Ar Condicionado no 15","Wesley Safadão"
-"Eu Era","Marcos e Belutti"
-"Na Conta Da Loucura","Bruno e Marrone"
-"Te Assumi Pro Brasil","Matheus & Kauan"
-"Enquanto Eu Brindo Cê Chora","Bruno e Marrone"
-"Amigo taxista","Zé Neto e Cristiano"
-"Cê Acredita","João Neto e Frederico part. MC Kevinho"
-"Raspão","Henrique & Diego ft. Simone & Simaria"
-"Aquela pessoa","Henrique e Juliano"
-"Avisa Que eu Cheguei","Naiara Azevedo part. Ivete Sangalo"
-"Destino","Zezé Di Camargo & Luciano"
-"Nessas Horas","Matheus & Kauan"
-"De Quem É A Culpa?","Marília Mendonça"
-"Lá se foi o Boi com a Corda","Bruno e Barretto feat. DJ Kevin"
-"Despacito","Luis Fonsi"
-"Forró e Paixão","Eduardo Costa"
-"Modão Duído","Michel Teló  part. Maiara e Maraisa"
-"Impressionando os Anjos","Gustavo Mioto"
-"Bengala e Crochê","Maiara e Maraisa"
-"Chave Cópia","Felipe Araújo part. Jorge e Mateus"
-"Eu Vou Te Buscar (Cha la la la la)","Gusttavo Lima ft Hungria Hip Hop"
-"Saudade do Caramba","João Neto e Frederico"
-"Senhorita","Victor & Leo"
-"De Copo Em Copo","George Henrique & Rodrigo"
-"Eu Sei De Cor","Marília Mendonça"
-"Beber com emergência","Jefferson Moraes"
-"Paredes pintadas","Julia e Rafaela"
-"Paradinha","Anitta"
-"Ninguém É de Ferro","Wesley Safadão Part. Marília Mendonça"
-"Faixa 3","Bruninho & Davi ft. Gusttavo Lima"
-"Homem de Família","Gusttavo Lima"
-"Você Partiu Meu Coração","Nego do Borel ft. Anitta, Wesley Safadão"
-"Quase","Cleber & Cauan"
-"Você Não Vale Nada","Zé Felipe  part. MC Menor"
-"Mordida, Beijo e Tapa","Naiara Azevedo"
-"Saudade","Eduardo Costa"
-"Fé no Pai","Lucas Lucco"
-"Sofri em dobro","Diego e Arnaldo"
-"Relógio","Gustavo Mioto"
-"Mesmo Sem Estar","Luan Santana  ft Sandy"
-"Não era você","João Bosco e Vinicius"
-"Casa Amarela","Guilherme e Santiago"
-"Na Riqueza e Na Pobreza","Jads & Jadson"
-"O Errado Sou Eu","Zé Felipe"
-"O Mar Parou","Michel Teló"
-"Malbec","Henrique & Diego  ft. Dennis Dj"
-"Digitando","Day e Lara"
-"Chame o juiz","Fernanda Costa"
-"Cópia mal feita","Bruno e Barretto"
-"Solteiro Apaixonado","Marcos e Belutti"
-"Pra que isso?","Luiza e Maurilio"
-"Na mesma moeda","Julia e Rafaela"
-"Quem aguenta","Jads e Jadson"
-"Sarcasmo","Thaeme e Thiago"
-"Laço Aberto","Leonardo, Eduardo Costa"
-"A Mala é Falsa","Felipe Araújo part. Henrique & Juliano"
-"Shape of you","Ed Sheeran"
-"Nosso infinito","Breno e Caio Cesar"
-"Você Faz Falta Aqui","Maiara e Maraisa"
-"Se é pra gente ficar","Solange Almeida ft Wesley Safadão"
-"Medida Certa","Jorge & Mateus"
-"Se o Amor Tiver Lugar","Jorge & Mateus"
-"Terapinga","Fernando e Sorocaba"
-"Amor da sua cama","Felipe Araújo"
-"Noites frustradas","Jads e Jadson"
-"Velho namorado novo","Conrado e Aleksandro"
-"Box do chuveiro","Munhoz e Mariano"
-"Sem contra indicação","Diego e Victor Hugo ft Bruno e Marrone"
-"Baldinho de balada","Kleo Dibah e Rafael"
-"Põe no 120","Conrado e Aleksandro ft DJ Kevin"
-"Eu já te quis um dia","Sorriso Maroto"
-"Deixa eu voar","George Henrique e Rodrigo ft Jorge e Mateus"
-"Amizade de ex","PH e Michel ft Maiara e Maraísa"
-"Tomador de whisky","Munhoz e Mariano"
-"To bem","Luiza e Maurilio"
-"Momentos (Irmãos)","Victor & Leo"
-"Amores rasos","Luiz Henrique e Leo ft Henrique e Diego"
-"Era Uma Vez","Kell Smith"
-"Luzes de São Paulo","Fernando & Sorocaba"
-"Fotos antigas","Thiaguinho"
-"Coisa de ex","Paula Mattos"
-"Energia surreal","Thiaguinho"
-"This Girl","Kungs vs Cookin’ on 3 Burners"
-"Me chama","Pedro Paulo e Alex"
-"Coisa de Deus","Michel Teló ft Jorge e Mateus"
-"Mais um ano juntos","Marcos e Belutti"
-"Acertou a mão","Luan Santana"
-"E Essa Boca Aí?","Bruninho & Davi ft. Luan Santana"
-"Seu padre","Antony e Gabriel"
-"Esqueci Como Namora","Nego do Borel ft. Maiara & Maraisa"
-"Naturalmente","Loubet"
-"Notícia Boa","Fernando & Sorocaba"
+title,artist,lyrics
+"Acordando o Prédio","Luan Santana","Aonde foi parar o seu juízo?
+Já são quatro da manhã
+Daqui a pouco liga o síndico
+Será que tem como a moça gritar baixinho?
+
+Sei que tá bom, mas as paredes têm ouvido
+E era pra ser escondido, já que não é mais
+
+Vamo acordar esse prédio
+Fazer inveja pro povo
+Enquanto eles tão indo trabalhar
+A gente faz amor gostoso de novo
+
+Vamo acordar esse prédio
+Fazer inveja pro povo
+Enquanto eles tão indo trabalhar
+A gente faz amor gostoso de novo (de novo, de novo)
+
+Deixa o mundo saber, baby, como você é
+E os problemas a gente resolve depois, né?
+Porque quando você desce a Lua também desce pra ver
+Já me ganhou, agora é só me levar pra você
+
+Aonde foi parar o seu juízo?
+Já são quatro da manhã
+Daqui a pouco liga o síndico
+Será que tem como a moça gritar baixinho?
+
+Sei que tá bom, mas as paredes têm ouvido
+E era pra ser escondido, já que não é mais
+
+Vamo acordar esse prédio
+Fazer inveja pro povo
+Enquanto eles tão indo trabalhar
+A gente faz amor gostoso de novo
+
+Vamo acordar esse prédio
+Fazer inveja pro povo
+Enquanto eles tão indo trabalhar
+A gente faz amor gostoso de novo
+
+Vamo acordar esse prédio
+Fazer inveja pro povo
+Enquanto eles tão indo trabalhar
+A gente faz amor gostoso de novo
+
+Vamo acordar esse prédio
+Fazer inveja pro povo
+Enquanto eles tão indo trabalhar
+A gente faz amor gostoso de novo (de novo, de novo)
+
+Deixa o mundo saber, baby, como você é
+(Enquanto eles tão indo trabalhar)
+E os problemas a gente resolve depois, né?
+Porque quando você desce a Lua também desce pra ver
+(Enquanto eles tão indo trabalhar)
+Já me ganhou, agora é só me levar pra você
+
+Vamo acordar esse prédio
+Fazer inveja pro povo
+Enquanto eles tão indo trabalhar
+A gente faz amor gostoso de novo
+
+Vamo acordar esse prédio
+Fazer inveja pro povo
+Enquanto eles tão indo trabalhar
+A gente faz amor gostoso de novo (de novo, de novo)"
+"Vidinha de balada","Henrique e Juliano","Oi, tudo bem?
+Que bom te ver
+A gente ficou, coração gostou
+Não deu pra esquecer
+
+Desculpa a visita
+Eu só vim te falar
+Tô a fim de você
+E se não tiver, cê vai ter que ficar
+
+Eu vim acabar com essa sua vidinha de balada
+E dar outro gosto pra essa sua boca de ressaca
+
+Vai namorar comigo, sim!
+Vai por mim, igual nós dois não tem
+Se reclamar, cê vai casar também
+Com comunhão de bens
+Seu coração é meu e o meu é seu também
+
+Vai namorar comigo, sim!
+Vai por mim, igual nós dois não tem
+Se reclamar, cê vai casar também
+Com comunhão de bens
+Seu coração é meu e o meu é seu também
+
+Vai namorar comigo, sim!"
+"Cadeira de aço","Zé Neto e Cristiano","Sobraram as marcas das brigas da separação
+Ficaram os cacos de vidro e as flores no chão
+Se eu tivesse abaixado a voz
+Talvez hoje seríamos nós
+
+Um mês e quatro dias tentando, ela nada de me atender
+Outras bocas, fui desencanando
+Coração quase parou de tanto sofrer
+Meu refúgio foi mesa de bar pra tentar te esquecer
+
+Sentado numa cadeira de aço enferrujada e bebendo
+Cada copo americano enganava o meu sofrimento
+Achei que eu tivesse esquecido a danada naquela hora
+Até ver seu nome escrito na lata de Coca-Cola
+
+Em uma cadeira de aço enferrujada e bebendo
+Cada copo americano enganava o meu sofrimento
+Achei que eu tivesse esquecido a danada naquela hora
+Até ver seu nome escrito na lata de Coca-Cola
+
+Ai ai ai, ai ai ai
+Deu uma saudade dela agora
+Ai ai ai, ai ai ai
+Garçom, joga essa lata fora
+
+Um mês e quatro dias tentando, ela nada de me atender
+Outras bocas, fui desencanando
+Coração quase parou de tanto sofrer
+Meu refúgio foi mesa de bar pra tentar te esquecer
+
+Sentado numa cadeira de aço enferrujada e bebendo
+Cada copo americano enganava o meu sofrimento
+Achei que eu tivesse esquecido a danada naquela hora
+Até ver o seu nome escrito na lata de Coca-Cola
+
+Em uma cadeira de aço enferrujada e bebendo
+Cada copo americano enganava o meu sofrimento
+Achei que eu tivesse esquecido a danada naquela hora
+Até ver o seu nome escrito na lata de Coca-Cola
+
+Ai ai ai, ai ai ai
+Deu uma saudade dela agora
+Ai ai ai, ai ai ai
+Garçom, joga essa lata fora
+
+Ai ai ai, ai ai ai
+Deu uma saudade dela agora
+Ai ai ai, ai ai ai
+Garçom, joga essa lata fora"
+"Sorte Que Cê Beija Bem","Maiara e Maraisa","Eu jurei não bater na sua porta
+Olha eu batendo
+E quebrando outra promessa
+
+Eu tentei não tocar mais no seu nome
+Mas de cada três palavras
+Uma me interessa
+
+Você é um problema que eu quero ter
+Mesmo sabendo que eu não consigo resolver
+Eu prometo que não vou te amar
+Porque essa promessa
+Eu vou fazer questão de quebrar
+
+Sabe o que você tem?
+Tem sorte que cê beija bem
+Você é a corda bamba que eu aprendi a andar
+
+Sabe o que você tem?
+Tem sorte que cê beija bem
+Só me deixa ir porque sabe que eu vou voltar
+
+Você é um problema que eu quero ter
+Mesmo sabendo que eu não consigo resolver
+Eu prometo que não vou te amar
+Porque essa promessa
+Eu vou fazer questão de quebrar
+
+Sabe o que você tem?
+Tem sorte que cê beija bem
+Você é a corda bamba que eu aprendi a andar
+
+Sabe o que você tem?
+Tem sorte que cê beija bem
+Só me deixa ir porque sabe que eu vou voltar
+
+Sabe o que você tem?
+Tem sorte que cê beija bem
+Você é a corda bamba que eu aprendi a andar
+
+Sabe o que você tem?
+Tem sorte que cê beija bem
+Só me deixa ir porque sabe que eu vou voltar"
+"Abre o Portão Que Eu Cheguei","Gusttavo Lima","Tá me achando com cara de bobo?
+Por que tá me ligando de novo?
+Dessa vez eu só tô te atendendo pra dizer
+Que ontem foi a nossa última vez
+
+Você deve se achar muito esperta
+Toda vez com a mesma conversa
+Me ilude, me leva no chão
+E quando vou dormir já estou com você na sua cama
+
+Eu não consigo entender você
+Sempre me diz que é amor mas só me quer por prazer
+Olha pra trás, veja tudo o que fez
+Agora quer brincar comigo e não vai ter outra vez
+
+Tô cansado de sair no meio da noite e te satisfazer
+E um minuto depois de matar minha vontade, eu me arrepender
+Sair de madrugada, do meio da balada
+Largar a minha vida pra viver você
+Só pra viver você
+
+Você sabe que eu sou louco por você e que me tem nas mãos
+E confesso que às vezes me pego esperando a sua ligação
+Tava fora de mim, esquece o que eu falei
+Abre o portão que eu cheguei
+
+Eu não consigo entender você
+Sempre me diz que é amor mas só me quer por prazer
+Olha pra trás, veja tudo o que fez
+Agora quer ficar comigo e não vai ter outra vez
+
+Tô cansado de sair no meio da noite e te satisfazer
+E um minuto depois de matar minha vontade eu me arrepender
+Sair de madrugada, do meio da balada
+Largar a minha vida pra viver você
+Só pra viver você
+
+Você sabe que eu sou louco por você e que me tem nas mãos
+E confesso que às vezes me pego esperando a sua ligação
+Tava fora de mim, esquece o que eu falei
+Abre o portão que eu cheguei
+
+Tô cansado de sair no meio da noite e te satisfazer
+E um minuto depois de matar minha vontade eu me arrepender
+Sair de madrugada, do meio da balada
+Largar a minha vida pra viver você
+Só pra viver você
+
+Você sabe que eu sou louco por você e que me tem nas mãos
+E confesso que às vezes me pego esperando a sua ligação
+Tava fora de mim, esquece o que eu falei
+Abre o portão que eu cheguei
+
+E um minuto depois de matar minha vontade eu me arrepender
+Sair de madrugada, do meio da balada
+Largar a minha vida pra viver você
+Só pra viver você
+
+Você sabe que eu sou louco por você e que me tem nas mãos
+E confesso que às vezes me pego esperando a sua ligação
+Tava fora de mim, esquece o que eu falei
+Abre o portão que eu cheguei
+
+Abre o portão que eu cheguei"
+"Amante Não Tem Lar","Marília Mendonça","Só vim me desculpar
+Eu não vou demorar
+Não vou tentar ser sua amiga
+Pois sei que não dá
+
+Você vai me odiar
+Mas eu vim te contar
+Que faz um tempo
+Eu me meti no meio do seu lar
+
+Sua família é tão bonita
+Eu nunca tive isso na vida
+E se eu continuar assim
+Eu sei que não vou ter
+
+Ele te ama de verdade
+E a culpa foi minha
+Minha responsabilidade eu vou resolver
+Não quero atrapalhar você
+
+E o preço que eu pago
+É nunca ser amada de verdade
+Ninguém me respeita nessa cidade
+Amante não tem lar
+Amante nunca vai casar
+
+E o preço que eu pago
+É nunca ser amada de verdade
+Ninguém me respeita nessa cidade
+Amante não vai ser fiel
+Amante não usa aliança e véu
+
+Sua família é tão bonita
+Eu nunca tive isso na vida
+E se eu continuar assim
+Eu sei que não vou ter
+
+Ele te ama de verdade
+E a culpa foi minha
+Minha responsabilidade eu vou resolver
+Não quero atrapalhar você
+
+E o preço que eu pago
+É nunca ser amada de verdade
+Ninguém me respeita nessa cidade
+Amante não tem lar
+Amante nunca vai casar
+
+E o preço que eu pago
+É nunca ser amada de verdade
+Ninguém me respeita nessa cidade
+Amante não vai ser fiel
+Amante não usa aliança e véu
+
+E o preço que eu pago
+É nunca ser amada de verdade
+Ninguém me respeita nessa cidade
+Amante não tem lar
+Amante nunca vai casar
+
+E o preço que eu pago
+É nunca ser amada de verdade
+Ninguém me respeita nessa cidade
+Amante não vai ser fiel
+Amante não usa aliança e véu"
+"Regime Fechado","Simone & Simaria","Alô, eu tô ligando só pra te dizer
+Que eu tô dando queixa de você
+Tô na delegacia e o polícia disse que seu caso não tem solução
+
+Roubar um coração é caso sério
+Sua sentença é viver na mesma cela que eu
+Já que nós dois estamos sendo acusados de adultério
+
+Eu deixo esse cara, cê larga essa mulher
+E a gente vai viver a vida como Deus quiser
+Sem dar satisfação da nossa relação
+
+Condenados a viver compartilhando prazer
+Na cela da nossa paixão
+
+Ô, ô, ô, ô, ô
+Não quero advogado
+Quero regime fechado com você, amor
+Ô, ô, ô, ô, ô
+Nós somos bagunçados e reféns desse pecado
+
+Ô, ô, ô, ô, ô
+Não quero advogado
+Quero regime fechado com você, amor
+Ô, ô, ô, ô, ô
+Nós somos bagunçados e reféns desse pecado
+
+É bandido, esse meu coração
+Eterno prisioneiro da paixão
+
+Alô, eu tô ligando só pra te dizer
+Que eu tô dando queixa de você
+Tô na delegacia e o polícia disse que seu caso não tem solução
+
+Roubar um coração é caso sério
+Sua sentença é viver na mesma cela que eu
+Já que nós dois estamos sendo acusados de adultério
+
+Eu deixo esse cara, cê larga essa mulher
+E a gente vai viver a vida como Deus quiser
+Sem dar satisfação da nossa relação
+
+Condenados a viver compartilhando prazer
+Na cela da nossa paixão
+
+Ô, ô, ô, ô, ô
+Não quero advogado
+Quero regime fechado com você, amor
+Ô, ô, ô, ô, ô
+Nós somos bagunçados e reféns desse pecado
+
+Ô, ô, ô, ô, ô
+Não quero advogado
+Quero regime fechado com você, amor
+Ô, ô, ô, ô, ô
+Nós somos bagunçados e reféns desse pecado
+
+É bandido, esse meu coração
+Eterno prisioneiro da paixão
+
+É bandido, esse meu coração
+Eterno prisioneiro da paixão"
+"Ar Condicionado no 15","Wesley Safadão","Cinco dias, uma hora, dez minutos
+Que eu não te vejo
+O relógio conta as horas
+Enquanto eu conto nos dedos
+
+Todos os beijos que eu não te dei
+A saudade acumulando, acumulando e eu já nem sei
+Até que ponto eu vou aguentar
+Eu tô ficando louco só de imaginar
+
+E já pensou?
+O ar condicionado no 15 e a gente suando
+A TV no volume mais alto e a gente se amando
+O que é que cê tá esperando?
+
+E já pensou?
+O ar condicionado no 15 e a gente suando
+A TV no volume mais alto e a gente se amando
+O que é que cê tá esperando?
+Um dia sem você parece um ano"
+"Eu Era","Marcos e Belutti","Aí você escolhe a melhor roupa
+Aí você arruma o seu cabelo
+E sai com aquela sua amiga louca
+Que diz que o bom da vida é ser solteiro
+
+Me diz se adiantou alguma coisa
+Procurar alívio passageiro
+Beijar umas quatro ou cinco bocas
+Com beijos que não têm gosto de beijo
+
+Aí lembrou de mim, não teve jeito
+Aí lembrou de mim, não teve jeito
+
+Beijou a boca errada, lembrou da boca certa
+Entrou numa gelada, lembrou da minha coberta
+Sabe esse alguém perfeito que você tanto espera?
+Eu era, eu era
+
+Aí você se lembra que a gente se completa
+E vai voltar pra mim, se for um pouco esperta
+Porque esse alguém perfeito que você tanto espera
+Eu era, eu era
+Eu era
+
+Aí você escolhe a melhor roupa
+Aí você arruma o seu cabelo
+E sai com aquela sua amiga louca
+Que diz que o bom da vida é ser solteiro
+
+Me diz se adiantou alguma coisa
+Procurar alívio passageiro
+Beijar umas quatro ou cinco bocas
+Com beijos que não têm gosto de beijo
+
+Aí lembrou de mim, não teve jeito
+Aí lembrou de mim, não teve jeito
+
+Beijou a boca errada, lembrou da boca certa
+Entrou numa gelada, lembrou da minha coberta
+Sabe esse alguém perfeito que você tanto espera?
+Eu era, eu era
+
+Aí você se lembra que a gente se completa
+E vai voltar pra mim, se for um pouco esperta
+Porque esse alguém perfeito que você tanto espera
+Eu era, eu era
+
+Beijou a boca errada, lembrou da boca certa
+Entrou numa gelada, lembrou da minha coberta
+Sabe esse alguém perfeito que você tanto espera?
+Eu era, eu era
+
+Aí você se lembra que a gente se completa
+E vai voltar pra mim, se for um pouco esperta
+Porque esse alguém perfeito que você tanto espera
+Eu era, eu era, eu era
+Eu era"
+"Na Conta Da Loucura","Bruno e Marrone","Gosto
+Das suas mãos atrevidas
+Desse seu olhar maldoso
+Suas frases provocantes
+Desse jogo corpo a corpo
+
+Você é o defeito que eu gosto de ter
+Se for pra errar tem que ser com você
+
+Quero
+Sua cama passageira
+A sua temperatura
+Traz a loucura pro quarto
+Deixa a razão na rua
+Temos uma noite inteira
+Pra fazer o que quiser
+
+Conte mais uma mentira
+Que sou diferente
+Que gosta da gente, eu vou acreditar
+Relaxa
+Não precisa estar nem aqui quando eu acordar
+
+Põe mais uma noite aí na conta da loucura
+Hoje o desejo é quem vai levar a culpa
+Do cabelo bagunçado, perfume misturado
+Meus olhos passeando no teu corpo todo
+
+Põe mais uma noite aí na conta da loucura
+Hoje o desejo é quem vai levar a culpa
+Do cabelo bagunçado, perfume misturado
+Meus olhos passeando no teu corpo todo
+
+Coração nem precisa saber
+Que hoje eu tô com você
+Coração nem precisa saber
+Que hoje eu tô com você
+
+Conte mais uma mentira
+Que sou diferente
+Que gosta da gente, eu vou acreditar
+Relaxa
+Não precisa estar nem aqui quando eu acordar
+
+Põe mais uma noite aí na conta da loucura
+Hoje o desejo é quem vai levar a culpa
+Do cabelo bagunçado, perfume misturado
+Meus olhos passeando no teu corpo todo
+
+Põe mais uma noite aí na conta da loucura
+Hoje o desejo é quem vai levar a culpa
+Do cabelo bagunçado, perfume misturado
+Meus olhos passeando no teu corpo todo
+
+Coração nem precisa saber
+Que hoje eu tô com você
+Coração nem precisa saber
+Que hoje eu tô com você"
+"Te Assumi Pro Brasil","Matheus & Kauan","Ser feliz pra mim não custa caro
+Se você tá do lado, eu me sinto tão bem
+Você sempre me ganha na manha
+Que mistério cê tem?
+
+Arrumei a mala há mais de uma semana
+Só falta você me chamar pra eu fugir com você
+Mudei meu status, já tô namorando
+Antes de você aceitar, já te assumi pro Brasil
+
+Por que te amo, eu não sei
+Mas quero te amar cada vez mais
+O que na vida ninguém fez
+Você fez em menos de um mês
+
+Por que te amo eu não sei
+Mas quero te amar cada vez mais
+O que na vida ninguém fez
+Você fez em menos de um mês
+
+Eu arrumei a mala há mais de uma semana
+Só falta você me chamar pra eu fugir com você
+Mudei meu status, já tô namorando
+Antes de você aceitar, já te assumi pro Brasil
+
+Por que te amo, eu não sei
+Mas quero te amar cada vez mais
+O que na vida ninguém fez
+Você fez em menos de um mês
+
+Por que te amo, eu não sei
+Mas quero te amar cada vez mais
+O que na vida ninguém fez
+Você fez em menos de um mês"
+"Enquanto Eu Brindo Cê Chora","Bruno e Marrone","Pois é, mas que surpresa
+Cruzar com você depois de tanto tempo
+Na mesa ao lado sentada sozinha
+Sei que está me vendo
+O mais engraçado foi ver sua cara
+
+Tentando não chorar
+Desesperou quando percebeu alguém
+Aqui no seu lugar
+Pegou o telefone, fingiu estar falando
+Só pra disfarçar
+Bebendo assim desse jeito só vai piorar
+
+Enquanto eu brindo cê chora
+Por que não levanta da mesa
+Tem táxi lá fora
+Você se achava perfeita, insubstituível
+Te ver desse jeito chorando era tão previsível"
+"Amigo taxista","Zé Neto e Cristiano","Alô amigo taxista, deixa eu te falar
+To precisando que você venha aqui me buscar
+Bebi demais e não tenho condições de dirigir
+Por isso eu decidi deixar meu carro aqui
+
+Só te peço por favor não demore muito tempo
+Porque o dono quer fechar o estabelecimento
+Vou te esperar lá fora sentando na calçada
+Quando chegar, explico o endereço da safada
+
+Que tá fazendo isso comigo
+Pode cobrar bandeira dois
+Pra ir ouvindo as minhas mágoas no caminho
+
+Rapaz, é difícil demais gostar dessas muié bandida
+Quanto mais nóis corre atrás, mais elas pisa
+A minha terminou comigo por mensagem
+Me largar desse jeito foi muita sacanagem
+
+Me leva lá que isso não vai ficar assim
+Ainda tem orgulho aqui dentro de mim
+Vou falar na cara dela: Depois de tudo que cê fez
+Eu vou te perdoar só mais essa vez
+
+Só te peço por favor não demore muito tempo
+Por que o dono quer fechar o estabelecimento
+Vou te esperar lá fora sentando na calçada
+Quando chegar te explico o endereço da safada
+
+Que tá fazendo isso comigo
+Pode cobrar bandeira dois
+Pra ir ouvindo as minhas mágoas no caminho
+
+Rapaz, é difícil demais gostar dessas muié bandida
+Quanto mais nóis corre atrás, mais elas pisa
+A minha terminou comigo por mensagem
+Me largar desse jeito foi muita sacanagem
+
+Me leva lá que isso não vai ficar assim
+Ainda tem orgulho aqui dentro de mim
+Vou falar na cara dela: Depois de tudo que cê fez
+Eu vou te perdoar
+
+Rapaz, é difícil demais gostar dessas muié bandida
+Quanto mais nóis corre atrás, mais elas pisa
+A minha terminou comigo por mensagem
+Me largar desse jeito foi muita sacanagem
+
+Me leva lá que isso não vai ficar assim
+Ainda tem orgulho aqui dentro de mim
+Vou falar na cara dela: Depois de tudo que cê fez
+Eu vou te perdoar só mais essa vez
+Só mais essa vez"
+"Aquela pessoa","Henrique e Juliano","Você também tem, que eu sei
+Aquela pessoa
+Não adianta negar
+
+Que tem passe livre
+Carta branca na sua vida
+Pra ir e voltar quando quiser
+Nunca vai deixar de ser o que é, é
+
+Todo mundo tem uma pessoa, aquela pessoa
+Que te faz esquecer todas as outras
+Todo mundo tem uma pessoa, aquela pessoa
+Não precisa dia e nem hora pra chegar
+
+Na portaria do meu coração já tem seu nome
+Pode entrar
+
+Você também tem, que eu sei
+Aquela pessoa
+Não adianta negar
+
+Que tem passe livre
+Carta branca na sua vida
+Pra ir e voltar quando quiser
+Nunca vai deixar de ser o que é, é
+
+Todo mundo tem uma pessoa, aquela pessoa
+Que te faz esquecer todas as outras
+Todo mundo tem uma pessoa, aquela pessoa
+Não precisa dia e nem hora pra chegar
+
+Na portaria do meu coração já tem seu nome
+
+Todo mundo tem uma pessoa, aquela pessoa
+Que te faz esquecer todas as outras
+Todo mundo tem uma pessoa, aquela pessoa
+Não precisa dia e nem hora pra chegar
+
+Na portaria do meu coração já tem seu nome
+Pode entrar"
+"Destino","Zezé Di Camargo & Luciano","No começo era só ilusão, fantasia
+Você não me desejava e eu nem te queria
+
+De repente foi tudo mudando
+Uma força um amor me chamando
+Na verdade eu já nao me controlava mais
+Tarde de mais
+
+E o que era pra ser brincadeira
+Hoje eu quero pra vida inteira
+Agradeço a Deus por me entregar você
+
+Sei que hoje eu sou
+Completamente teu
+Seu amor é meu
+O meu amor é seu
+
+Sei que hoje eu sou
+Completamente teu
+Seu amor é meu
+O meu amor é seu
+
+No começo era só ilusão, fantasia
+Você não me desejava e eu nem te queria
+
+De repente foi tudo mudando
+Uma força um amor me chamando
+Na verdade eu já nao me controlava mais
+Tarde de mais
+
+E o que era pra ser brincadeira
+Hoje eu quero pra vida inteira
+Agradeço a Deus por me entregar você
+
+Sei que hoje eu sou
+Completamente teu
+Seu amor é meu
+O meu amor é seu
+
+Sei que hoje eu sou
+Completamente teu
+Seu amor é meu
+O meu amor é
+
+Sei que hoje eu sou
+Completamente teu
+Seu amor é meu
+O meu amor é seu
+
+Sei que hoje eu sou
+Completamente teu
+Seu amor é meu
+O meu amor é, seu
+
+O meu amor é, seu"
+"Nessas Horas","Matheus & Kauan","Você de lá e eu de cá
+Olhando o mesmo céu
+Que distância cruel
+Assisto o tempo passar
+Tento me dispersar
+Olhando o celular
+
+Metade do meu coração só quer te ver de novo
+E a outra só pensa em você
+Não tem nenhum espaço pra eu amar alguém de novo
+Em mim, só existe você
+
+E nessas horas, meu sorriso é passageiro
+E é aí que eu percebo
+A falta que me faz você
+E nessas horas, eu nem ligo pra dinheiro
+Pra eu me sentir inteiro, só preciso de você
+De você
+
+E você de lá e eu de cá
+Olhando o mesmo céu
+Que distância cruel
+Eu assisto o tempo passar
+Tento me dispersar
+Olhando o celular
+
+Metade do meu coração só quer te ver de novo
+E a outra só pensa em você
+Não tem nenhum espaço pra eu amar alguém de novo
+Em mim, só existe você
+
+E nessas horas, meu sorriso é passageiro
+É aí que eu percebo
+A falta que me faz você
+E nessas horas, eu nem ligo pra dinheiro
+Pra eu me sentir inteiro, só preciso de você
+
+E nessas horas, meu sorriso é passageiro
+E é aí que eu percebo
+A falta que me faz você
+E nessas horas que eu nem ligo pra dinheiro
+Pra eu me sentir inteiro, só preciso de você
+De você"
+"De Quem É A Culpa?","Marília Mendonça","Exagerado, sim
+Sou mais você que eu
+Sobrevivo de olhares
+E alguns abraços que me deu
+
+E o que vai ser de mim
+E o meu assunto que não muda?
+Minha cabeça não ajuda
+Loucura, tortura
+
+E que se dane a minha postura
+Se eu mudei, você não viu
+Eu só queria ter você por perto
+Mas você sumiu
+
+É tipo um vício que não tem mais cura
+E agora, de quem é a culpa?
+A culpa é sua por ter esse sorriso
+Ou a culpa é minha por me apaixonar por ele?
+Só isso
+
+Não finja que eu não tô falando com você
+Eu tô parado no meio da rua
+Eu tô entrando no meio dos carros
+Sem você, a vida não continua
+
+Não finja que eu não tô falando com você
+Ninguém entende o que eu tô passando
+Quem é você, que eu não conheço mais?
+Me apaixonei pelo que eu inventei de você
+
+Mas você sumiu
+É tipo um vício que não tem mais cura
+E agora, de quem é a culpa?
+A culpa é sua por ter esse sorriso
+Ou a culpa é minha por me apaixonar por ele?
+Só isso
+
+Não finja que eu não tô falando com você
+Eu tô parado no meio da rua
+Eu tô entrando no meio dos carros
+Sem você, a vida não continua
+
+Não finja que eu não tô falando com você
+Ninguém entende o que eu tô passando
+Quem é você, que eu não conheço mais?
+Me apaixonei pelo que eu inventei de você
+
+Iê-iê, iê-iê
+Me apaixonei pelo que eu inventei de você"
+"Forró e Paixão","Eduardo Costa","Aqui tá bom mas só falta você
+Aqui tá bom mas só falta você
+Aqui tá bom mas só falta você
+Você, você, meu bem querer
+
+Meu coração bate mais forte que o teu
+Quando eu te vejo, mas quando eu vejo você
+Meu coração bate mais forte que o teu
+Quando eu te vejo, mas quando eu vejo você
+
+Será que é amor?
+Não sei
+Será que é paixão?
+Talvez
+Só sei que é bom demais
+Será que é amor?
+Não sei
+Será que é paixão?
+Talvez
+Só sei que é bom demais"
+"Impressionando os Anjos","Gustavo Mioto","Hoje foi tudo bem, só um pouco cansativo
+Dia duro no trabalho que acabou comigo
+Tô aqui com os pés pra cima pronto pra dormir
+
+A saudade de você é visita frequente
+Que nem a sua tia chata que irritava a gente
+Ah, saudade da gente
+
+Tirando isso, do resto até que eu tô dando conta
+A Julinha tá banguela e o Pedro só apronta
+O que faltava do carro, eu já quitei a conta
+
+Ah, falando nisso, terminei o livro que você pediu pra eu ler
+E só na página 70, entendi você
+Naquela parte onde diz que o amor é fogo que arde sem se ver
+
+Como é que tá aí?
+De você faz tempo que não ouço nada
+Fala um pouco, sua voz tá tão calada
+Sei que agora deve estar impressionando os anjos com sua risada
+
+Mas de você faz tempo que não ouço nada
+Fala um pouco, sua voz tá tão calada
+Aí de cima, fala alto que eu preciso ouvir
+Como é que tá aí?
+
+Tirando isso, do resto até que eu tô dando conta
+A Julinha tá banguela e o Pedro só apronta
+O que faltava do carro, eu já quitei a conta
+
+Falando nisso, terminei o livro que você pediu pra eu ler
+E só na página 70, entendi você
+Naquela parte onde diz que o amor é fogo que arde sem se ver
+
+Como é que tá aí?
+De você faz tempo que não ouço nada
+Fala um pouco, sua voz tá tão calada
+Sei que agora deve estar impressionando os anjos com sua risada
+
+Mas de você faz tempo que não ouço nada
+Fala um pouco, sua voz tá tão calada
+Aí de cima, fala alto que eu preciso ouvir
+Como é que tá ai?
+
+Sei que agora deve estar impressionado os anjos com sua risada
+Fala alto aí de cima, que eu preciso ouvir
+Como é que tá aí?"
+"Bengala e Crochê","Maiara e Maraisa","Se já estamos misturando as meias
+Dividindo o mesmo edredom
+No meu guarda-roupa tem sua gaveta
+No seu banheiro já tem maquiagem e batom
+
+Adoro quando corro pra você, assustada
+Você é o meu herói, matador de baratas
+E depois de tudo a gente dá risada
+
+Se você já me deu a cópia da chave
+O que eu tô pensando, acho que você sabe
+
+Eu quero acordar do seu lado toda manhã
+Ouvir seu bom dia, um café, croissant
+Duas cópias da gente correndo num quintal
+Os altos e baixos de todo casal
+
+Eu quero nós dois bem juntinhos
+Até ficar bem velhinhos, bengala e crochê
+Até o final, eu e você
+
+Adoro quando corro pra você, assustada
+Você é o meu herói, matador de baratas
+E depois de tudo a gente dá risada
+
+Se você já me deu a cópia da chave
+O que eu tô pensando, acho que você sabe
+
+Eu quero acordar do seu lado toda manhã
+Ouvir seu bom dia, um café, croissant
+Duas cópias da gente correndo num quintal
+Os altos e baixos de todo casal
+
+Eu quero nós dois bem juntinhos
+Até ficar bem velhinhos, bengala e crochê
+Até o final, eu e você
+
+Eu quero acordar do seu lado toda manhã
+Ouvir seu bom dia, um café, croissant
+Duas cópias da gente correndo num quintal
+Os altos e baixos de todo casal
+
+Eu quero nós dois bem juntinhos
+Até ficar bem velhinhos, bengala e crochê
+Até o final, eu e você"
+"Saudade do Caramba","João Neto e Frederico","A mão no copo e o cotovelo no balcão
+Pedi a senha do wi-fi pro Seu João
+Até tentei, não consegui me segurar
+Me deu vontade de saber como ela tá
+
+Cada foto que eu olho
+É uma dose que eu tomo
+Eu dou um gole e choro
+Eu dou um gole e choro
+
+Minha vida parou
+Vi que a dela andou
+É aí que eu vou bebendo
+E o Seu João enriquecendo
+
+Ai que saudade do caramba que eu tô
+O coração não entendeu que acabou
+Ai que saudade do caramba que eu tô
+Desliga logo esse wi-fi
+Senão eu vou morrer de amor
+
+Ai que saudade do caramba que eu tô
+O coração não entendeu que acabou
+Ai que saudade do caramba que eu tô
+Desliga logo esse wi-fi
+Senão eu vou morrer de amor"
+"Senhorita","Victor & Leo","Senhorita, o Sol está se pondo
+E o tempo esgota o meu sonho
+Senhorita, olhando o seu retrato
+Te sinto, aqui do meu lado
+
+Não vou me perder na ilusão
+De abrir, em vão, meu coração
+Ignoro a razão
+Vou te chamar e te dar, meu coração
+Singela paixão!
+
+Senhorita, seus olhos me cegam
+Não vejo, se me querem ou me negam
+Senhorita, olhando o seu retrato
+Te sinto, aqui do meu lado
+
+Não vou me perder na ilusão
+De abrir, em vão, meu coração
+Ignoro a razão
+Vou te chamar e te dar, meu coração
+Singela paixão
+Não vou me perder na ilusão
+De abrir, em vão, meu coração
+Ignoro a razão
+Vou te chamar e te dar, meu coração
+Singela paixão!
+
+Senhorita, o Sol está se pondo
+E o tempo esgota o meu sonho"
+"De Copo Em Copo","George Henrique & Rodrigo","Andando de boca em boca
+De copo em copo, um dia por vez
+Pensando na volta, motivos não faltam
+Meu Deus, o que você me fez?
+Tirando o gelo do copo de whisky com o dedo
+E jogando no chão
+No peito, seu lado vazio
+E um nome escrito na palma da mão
+
+A porta do bar abaixando
+O garçom dando o toque: Já vamos fechar
+Não sei se me faço de surdo
+Se vazo daqui e procuro outro bar
+A chave do carro na mesa
+O celular na mão, quase sem bateria
+E é desse jeito todo dia
+
+Aí, eu vou sofrer
+Sofrendo, eu vou chorar
+Chorando, eu vou beber
+Bebendo, eu vou ligar
+Ela não vai atender
+
+Aí, eu vou sofrer
+Sofrendo, eu vou chorar
+Chorando, eu vou beber
+Bebendo, eu vou ligar
+Ela não vai atender
+Que jeito louco é esse de querer?
+
+A porta do bar abaixando
+O garçom dando o toque: Já vamos fechar
+Não sei se me faço de surdo
+Se vazo daqui, procuro outro bar
+A chave do carro na mesa
+O celular na mão, quase sem bateria
+E é desse jeito todo dia
+
+Aí, eu vou sofrer
+Sofrendo, eu vou chorar
+Chorando, eu vou beber
+Bebendo, eu vou ligar
+Ela não vai atender
+
+Aí, eu vou sofrer
+Sofrendo, eu vou chorar
+Chorando, eu vou beber
+Bebendo, eu vou ligar
+Ela não vai atender
+Que jeito louco é esse de querer?
+
+Aí, eu vou sofrer
+Sofrendo, eu vou chorar
+Chorando, eu vou beber
+Bebendo, eu vou ligar
+Ela não vai atender
+
+Aí, eu vou sofrer
+Sofrendo, eu vou chorar
+Chorando, eu vou beber
+Bebendo, eu vou ligar
+Ela não vai atender
+Que jeito louco é esse de querer?"
+"Eu Sei De Cor","Marília Mendonça","É
+Já tá ficando chato, né?
+A encheção de saco, pois é
+Prepara, que eu já tô me preparando
+Enquanto cê tá indo, eu tô voltando
+
+E todo esse caminho eu sei de cor
+Se eu não me engano, agora vai me deixar só
+O segundo passo é não me atender
+O terceiro é se arrepender
+Se o que dói em mim doesse em você
+
+Deixa, deixa mesmo de ser importante
+Vai deixando a gente pra outra hora
+Vai tentar abrir a porta desse amor
+Quando eu tiver jogado a chave fora
+
+Deixa, deixa mesmo de ser importante
+Vai deixando a gente pra outra hora
+E quando se der conta, já passou
+Quando olhar pra trás, já fui embora
+
+E todo esse caminho, eu sei de cor
+Se eu não me engano, agora vai me deixar só
+O segundo passo é não me atender
+O terceiro é se arrepender
+Se o que dói em mim doesse em você
+
+Deixa, deixa mesmo de ser importante
+Vai deixando a gente pra outra hora
+Vai tentar abrir a porta desse amor
+Quando eu tiver jogado a chave fora
+
+Deixa, deixa mesmo de ser importante
+Vai deixando a gente pra outra hora
+E quando se der conta, já passou
+Quando olhar pra trás, já fui embora
+
+E quando se der conta, já passou
+Quando olhar pra trás, já fui embora"
+"Beber com emergência","Jefferson Moraes","Nossa briga foi feia
+Tá tudo terminado
+Por isso eu quero beber
+Mas só acho boteco fechado
+
+To rodando a cidade
+Solidão tá no banco do lado
+A nossa música tocando no som do meu carro
+Não tá fácil ficar sem você, minha menina
+
+To procurando um posto, uma conveniência
+To precisando beber com emergência
+To remoendo o que ela me falou
+Dessa vez acabou, acabou
+
+To procurando um posto, uma conveniência
+To precisando beber com emergência
+Essa moda tocando, eu me acabo na pinga
+Não tá fácil ficar sem você, minha menina"
+"Paredes pintadas","Julia e Rafaela","Eu já tô preparando o nosso cantinho
+Do jeito que você sempre sonhou
+Na porta, um tapete de bem-vindo
+E na janela, aguinha pro beija-flor
+
+Na estante, tem porta-retrato com foto do primeiro beijo
+Na sala, aquele carpet que você viu e gostou
+Pequenos detalhes, a gente arruma com tempo
+O importante é que aqui nessa casa habita o amor
+
+Meu e seu, seu e meu, nosso amor
+As paredes pintadas da cor preferida, até o nosso gosto é igual
+E se falta dinheiro, a gente dá jeito, tem crise em qualquer casal
+Não faz mal, a nossa riqueza é sentimental
+Não faz mal, minha Mega-Sena, meu prêmio ideal
+É você
+É você, iêê
+É você
+
+Na estante, tem porta-retrato com foto do primeiro beijo
+Na sala, aquele carpet que você viu e gostou
+Pequenos detalhes, a gente arruma com tempo
+O importante é que aqui nessa casa habita o amor
+
+Meu e seu, seu e meu, nosso amor
+As paredes pintadas da cor preferida, até o nosso gosto é igual
+E se falta dinheiro, a gente dá jeito, tem crise em qualquer casal
+Não faz mal, a nossa riqueza é sentimental
+Não faz mal, minha Mega-Sena, meu prêmio ideal
+
+As paredes pintadas da cor preferida, até o nosso gosto é igual
+E se falta dinheiro, a gente dá jeito, tem crise em qualquer casal
+Não faz mal, a nossa riqueza é sentimental
+Não faz mal, minha Mega-Sena, meu prêmio ideal
+É você
+É você, iê
+É você
+
+É você"
+"Homem de Família","Gusttavo Lima","Te olhei, você me olhou
+Agora minha vida acredita
+Nunca acreditei em amor a primeira vista
+
+Até você aparecer do nada
+E arrancar minha cachaça com o seu beijo de batom
+Até você aparecer do nada
+E quem diria que do carro agora até tirei o meu som
+
+E quem me viu, se visse hoje não acreditaria
+Que o cachaceiro virou homem de família
+Troquei a noite pelo dia
+
+E quem me viu, se visse hoje não acreditaria
+Troquei o bar, agora é só sorveteria
+Só eu e ela quem diria
+Que o cachaceiro virou homem de família
+
+Até você aparecer do nada
+E arrancar minha cachaça com o seu beijo de batom
+Até você aparecer do nada
+E quem diria que do carro agora até tirei o meu som
+
+E quem me viu, se visse hoje não acreditaria
+Que o cachaceiro virou homem de família
+Troquei a noite pelo dia
+
+E quem me viu, se visse hoje não acreditaria
+Deixei o bar, agora é só sorveteria
+Só eu e ela quem diria
+Que o cachaceiro virou homem de família
+
+Acreditaria, que o cachaceiro virou homem de família
+Troquei a noite pelo dia
+
+E quem me viu, se visse hoje não acreditaria
+Troquei o bar, agora é só sorveteria
+Só eu e ela quem diria
+Que o cachaceiro virou homem de família
+
+Só eu e ela quem diria
+Que o cachaceiro virou homem de família, de família"
+"Quase","Cleber & Cauan","Ela tentou usar uma roupa parecida
+Tentou o mesmo corte de cabelo
+Tentou, vou te contar aonde ela errou
+Ela errou quando o beijo não me arrepiou
+Quando o abraço dela não encaixou
+O erro dela é não ser você
+
+Ela quase ficou entre você e eu
+Mas eu disse: Quase!
+Só quase, entendeu?
+E pra te explicar a distância do quase
+É tipo ida e volta daqui até Marte
+
+Se Deus fez outra de você
+Tá decorando a casa d'Ele
+Ele não vai deixar descer
+É uma minha, a outra d'Ele
+
+Se Deus fez outra de você
+Tá decorando a casa d'Ele
+Ele não vai deixar descer
+É uma minha, a outra d'Ele
+
+Ela tentou usar uma roupa parecida
+Tentou o mesmo corte de cabelo
+Tentou, vou te contar aonde ela errou
+Ela errou quando o beijo não me arrepiou
+Quando o abraço dela não encaixou
+O erro dela é não ser você
+
+Ela quase ficou entre você e eu
+Mas eu disse: Quase!
+Só quase, entendeu?
+E pra te explicar a distância do quase
+É tipo ida e volta daqui até Marte
+
+Se Deus fez outra de você
+Tá decorando a casa d'Ele
+Ele não vai deixar descer
+É uma minha, a outra d'Ele
+
+Se Deus fez outra de você
+Tá decorando a casa d'Ele
+Ele não vai deixar descer
+É uma minha, a outra d'Ele"
+"Mordida, Beijo e Tapa","Naiara Azevedo","Quase que acaba tudo
+Quase que o nosso amor escorre pelo ralo
+Ah! Se eu não falo
+
+Que a raiva tem explicação
+Que ela é quase metade de um coração apaixonado
+Do que sobra, um terço é ciúme
+E o resto é amor que você não assume
+
+Já que é assim
+Pego minhas roupas, vou juntando os trapos
+Cê me pega no braço, e aí
+
+Eu fiz amor, não fiz a mala
+Uma briguinha de nada era o que a gente precisava
+Eu fiz amor, não fiz a mala
+Descontei toda a nossa raiva em mordida, beijo e tapa
+
+Eu fiz amor, não fiz a mala
+Uma briguinha de nada era o que a gente precisava
+Eu fiz amor, não fiz a mala
+Descontei toda a nossa raiva em mordida, beijo e tapa
+
+Eu fiz amor, não fiz a mala"
+"Saudade","Eduardo Costa","Você sempre fez os meus sonhos
+Sempre soube dos meus segredos
+Já faz muito tempo
+Eu nem me lembro quanto tempo faz
+
+O meu coração não sabe contar os dias
+A minha cabeça já está tão vazia
+Mas a primeira vez ainda me lembro bem
+
+Talvez eu seja do seu passado mais uma página
+Que foi do seu diário arrancada
+Sonho, choro e sinto que resta alguma esperança
+Saudade, quero arrancar essa página da minha vida
+
+Você sempre fez os meus sonhos
+Sempre soube dos meus segredos
+Já faz muito tempo
+Eu nem me lembro quanto tempo faz
+
+O meu coração não sabe contar os dias
+A minha cabeça já está tão vazia
+Mas a primeira vez ainda me lembro bem
+
+Talvez eu seja do seu passado mais uma página
+Que foi do seu diário arrancada
+Sonho, choro e sinto que resta alguma esperança
+Saudade, quero arrancar essa página da minha vida
+
+Da minha vida
+Da minha vida
+Da minha vida"
+"Fé no Pai","Lucas Lucco","Como explicar os nossos desencontros?
+Nunca dá certo
+Coração tá meio tonto
+Tudo bagunçado
+Cada um pra um lado
+
+Toda vez que te procuro
+Você tem alguém
+Toda vez tô namorando
+Quando você vem
+Mas dessa vez quando eu vi
+Que tava sem ninguém
+Eu terminei na hora
+Pra ficar sozinho também
+
+Fé no pai
+Que agora o nosso beijo sai
+Pode crer que agora eu fico com você
+Eu vou matar minha vontade
+De te amar demais
+E dessa vez eu tô sentindo que agora vai
+
+Fé no pai
+Que agora o nosso beijo sai
+Pode crer que agora eu fico com você
+Eu vou matar minha vontade
+De te amar demais
+E dessa vez eu tô sentindo que agora vai"
+"Relógio","Gustavo Mioto","Ainda há tempo pra gente falar que não temos mais tempo
+Que o ponteiro das horas ficou congelado naquele momento
+E por 5 segundos deixei tudo ser do seu jeito
+E mais 5 segundos agora seriam perfeitos
+
+Quem vai embora, deixa solidão
+E o barulho daquele relógio da sala
+Não tem compaixão
+
+Quem vai embora, deixa solidão
+E o barulho daquele relógio da sala
+Não tem compaixão
+
+Perde o voo, perde o emprego
+Só não perde o meu amor
+Volta logo, chega cedo
+Antes do despertador tocar
+
+Antes de eu ir trabalhar
+Chega assim sem avisar
+Volta logo pro meu peito
+Pro relógio ter sossego"
+"Não era você","João Bosco e Vinicius","Tantos beijos já deixados por aí
+Conversas vazias, noites sem dormir
+Sempre pulando a parte um do compromisso
+Correndo pra provar um prazer sem o início
+
+Tudo que se aproximava
+Pra mim era ameaça
+Pode ser que o amor tenha tentado
+Mas eu dava o número errado
+
+Quantidades e momentos
+Não queria enxergar ninguém por dentro
+Por trás de todo sorriso, só conseguia ver
+Alguém que ia me fazer sofrer
+
+É porque não era você
+É porque não era você
+Eu troco 4 vidas de solteiro, fácil
+Pra viver o resto dessa do seu lado
+
+É porque não era você
+É porque não era você
+Eu troco 4 vidas de solteiro, fácil
+Pra viver o resto dessa do seu lado
+
+Derererererererê
+Derererererererê
+Eu troco 4 vidas de solteiro, fácil
+Pra viver o resto dessa do seu lado
+
+Tudo que se aproximava
+Pra mim era ameaça
+Pode ser que o amor tenha tentando
+Mas eu dava o número errado
+
+Quantidades e momentos
+Não queria enxergar ninguém por dentro
+Por trás de todo sorriso, só conseguia ver
+Alguém que ia me fazer sofrer
+
+É porque não era você
+É porque não era você
+Eu troco 4 vidas de solteiro, fácil
+Pra viver o resto dessa do seu lado
+
+É porque não era você
+É porque não era você
+Eu troco 4 vidas de solteiro, fácil
+Pra viver o resto dessa do seu lado
+
+É porque não era você
+É porque não era você
+Eu troco 4 vidas de solteiro, fácil
+Pra viver o resto dessa do seu lado
+
+Derererererererê
+Derererererererê
+Eu troco 4 vidas de solteiro, fácil
+Pra viver o resto dessa do seu lado
+
+Derererererererê
+Derererererererê
+Eu troco 4 vidas de solteiro, fácil
+Pra viver o resto dessa do seu lado
+
+É porque não era você
+Eu troco 4 vidas de solteiro, fácil
+Pra viver o resto dessa do seu lado"
+"Casa Amarela","Guilherme e Santiago","E olha eu aqui, pela décima vez
+Tô passando na frente da casa amarela
+Se algum vizinho me denunciar
+A culpa é dela
+De ex-namorado, agora
+Eu tô virando suspeito
+
+Olha o meu desespero
+Tô fazendo amizade com um vigilante
+Pra me explicar
+Meu problema é amor, tô sofrendo
+Eu não tô querendo roubar
+Mas, me diz uma coisa
+De quem é aquele carro preto
+Na frente da casa amarela?
+
+E o vigilante tá mandando a real
+Não vale a pena eu ficar passando mal
+Tem só três dias que ela me deixou
+Faz mais de um mês
+Que esse carro preto busca o meu amor
+
+E o vigilante tá mandando a real
+Não vale a pena eu ficar passando mal
+Tem só três dias que ela me deixou
+Faz mais de um mês
+Que esse carro preto busca o meu amor
+Agora, acabou
+
+E olha eu aqui, pela décima vez
+Tô passando na frente da casa amarela
+Se algum vizinho me denunciar
+A culpa é dela
+De ex-namorado, agora
+Eu tô virando suspeito
+
+Olha o meu desespero
+Tô fazendo amizade com um vigilante
+Pra me explicar
+Meu problema é amor, tô sofrendo
+Eu não tô querendo roubar
+Mas, me diz uma coisa
+De quem é aquele carro preto
+Na frente da casa amarela?
+
+E o vigilante tá mandando a real
+Não vale a pena eu ficar passando mal
+Tem só três dias que ela me deixou
+Faz mais de um mês
+Que esse carro preto busca o meu amor
+
+E o vigilante tá mandando a real
+Não vale a pena eu ficar passando mal
+Tem só três dias que ela me deixou
+Faz mais de um mês
+Que esse carro preto busca o meu amor
+Agora, acabou
+
+Faz mais de um mês
+Que esse carro preto busca o meu amor
+Agora, acabou"
+"Na Riqueza e Na Pobreza","Jads & Jadson","A geladeira está vazia
+O carro esta sem gasolina
+Perdi o emprego da minha vida
+E você aqui comigo
+Segurando a barra
+
+Pessoas passaram o mesmo que a gente
+Tomaram caminhos rumos diferente
+Olha aqui eu e você nós dois
+É só uma crise logo melhora
+Você me abraça e diz não importa
+E eu lembrei as promessas no altar que jurou
+
+Na alegria e na tristeza
+Na saúde e na doença
+Na riqueza e na pobreza
+
+Quando sobrou a gente estava bem
+Mas quando faltou a gente se amou como ninguém
+Quando sobrou a gente era feliz
+Mas quando faltou a gente se doou como nunca vi
+Nós dois lutamos pelo nosso amor
+Nós dois lutamos pelo nosso amor
+Quando nada sobrou, só restou amor
+
+A geladeira está vazia
+O carro esta sem gasolina
+Perdi o emprego da minha vida
+E você aqui comigo
+Segurando a barra
+
+Pessoas passaram o mesmo que a gente
+Tomaram caminhos rumos diferente
+Olha aqui eu e você nós dois
+É só uma crise logo melhora
+Você me abraça e diz não importa
+E eu lembrei as promessas no altar que jurou
+
+Na alegria e na tristeza
+Na saúde e na doença
+Na riqueza e na pobreza
+
+Quando sobrou a gente estava bem
+Mas quando faltou a gente se amou como ninguém
+Quando sobrou a gente era feliz
+Mas quando faltou a gente se doou como nunca vi
+Nós dois lutamos pelo nosso amor
+Nós dois lutamos pelo nosso amor
+Quando nada sobrou, só restou amor"
+"O Errado Sou Eu","Zé Felipe","Quer saber
+Você pra mim não passou de um tempo perdido
+Fez o que fez não teve dó e acabou comigo
+Uma dor que vai levar uma vida inteira pra se curar
+
+Você não tem juízo
+Entregar o meu coração em suas mãos é o mesmo que morrer
+Você usa ele feito um escudo pra se defender
+
+Mas eu sei que o errado dessa história
+Sou eu, sou eu, sou eu
+
+Sou eu que faz amor e chora
+Sou eu que sempre abro a porta
+Sou eu que te perdôo
+Você fala te amo
+Sou eu que te aceito de volta
+O errado sou eu"
+"O Mar Parou","Michel Teló","O seu corpo me incendeia
+E esses olhos cor de mar
+Seu suor cheio de areia
+Me convida pra ficar
+
+Tudo em câmera lenta
+Quando o vento te beijou
+Coração disparou
+
+Deus foi generoso com você, iêiê
+Eu tô doido pra te ver dançando, dançando
+Deus foi generoso com você, iêiê
+Eu tô doido pra te ver dançando, dançando
+
+O mar, o mar, o mar parou
+O mar, o mar, o mar parou
+O mar, o mar, o mar parou
+No momento em que você chegou
+
+O mar, o mar, o mar parou
+O mar, o mar, o mar parou
+O mar, o mar, o mar parou
+A gente fica, a nossa noite brilhou"
+"Digitando","Day e Lara","Quando um Eu Te Adoro tá sem sal
+Na hora de dar tchau
+Será que é cedo demais?
+Pode ficar tarde demais
+
+Agora vai escrevo
+Eu
+Espero um pouco apago e de novo escrevo
+Eu... te
+Tá quase falta pouco, vai sair
+Eu te
+Eu te amo!
+
+É que não fazia parte dos meus planos
+Toda vez que eu te encontro me dá branco
+Por isso declarei foi digitando
+Que eu te amo
+Eu
+Eu te
+Eu te amo!"
+"Chame o juiz","Fernanda Costa","Você sabe que nunca fui de me desculpar
+Sou orgulhosa mas por esse amor prometo mudar
+E as minhas verdades eu juro vou repensar
+Se você deixar a porta aberta eu prometo ficar
+
+Cometi erros que você adora repetir
+só pra lembrar o quanto te fiz infeliz
+Assumo a culpa e se eu errar
+cumpro a sentença que você declarar
+
+Chame o juíz
+Eu vou passar minha felicidade pro seu nome
+E nunca mais quero ouvir da sua boca a palavra some, só some
+Meu nome com seu nome eu prometo te fazer feliz
+
+Como você sempre quis"
+"Cópia mal feita","Bruno e Barretto","Até se parece comigo
+O mesmo jeito o mesmo estilo
+Até no modo de falar
+Você tentou me encontrar
+Em outro alguém
+Engraçado hein
+
+Ele tá usando o mesmo perfume que o meu
+Acredito foi você que deu
+Só pra lembrar de mim
+Tentou suprir a falta, mas não é bem assim
+
+Talvez seja desespero do seu subconsciente
+Arrumou uma cópia mal feita pra lembrar da gente
+E a prova que me ama
+É quando confunde meu nome com o dele na cama
+
+Talvez seja desespero do seu subconsciente
+Arrumou uma cópia mal feita pra lembrar da gente
+E a prova que me ama
+É quando confunde meu nome com o dele na cama"
+"Solteiro Apaixonado","Marcos e Belutti","Mais uma vez apaixonado
+Esse é meu defeito
+Não consigo viver sem um amor no peito
+Eu não tenho vocação pra dormir sozinho
+
+Sou louco por balada
+Não dispenso a saidera
+Mas quando tô com ela
+É cineminha sexta-feira
+
+Eu tento ser certinho
+Todo mundo acha errado
+Quem vê cara de santinho
+Não vê coração safado
+
+Eu tô solteiro apaixonado
+Nem tô livre nem tô amarrado
+Certinho, errado
+Santinho, danado
+Tô muito bem, obrigado
+
+Tô solteiro apaixonado
+Nem tô livre nem tô amarrado
+Certinho, errado
+Santinho, danado
+Tô muito bem, obrigado
+
+Mais uma vez apaixonado
+Esse é meu defeito
+Não consigo viver sem um amor no peito
+Eu não tenho vocação pra dormir sozinho
+
+Sou louco por balada
+Não dispenso a saidera
+Mas quando tô com ela
+É cineminha sexta-feira
+
+Eu tento ser certinho
+Todo mundo acha errado
+Quem vê cara de santinho
+Não vê coração safado
+
+Eu tô solteiro apaixonado
+Nem tô livre nem tô amarrado
+Certinho, errado
+Santinho, danado
+Tô muito bem, obrigado
+
+Tô solteiro apaixonado
+Nem tô livre nem tô amarrado
+Certinho, errado
+Santinho, danado
+Tô muito bem, obrigado"
+"Pra que isso?","Luiza e Maurilio","Minha vida mudou de uma forma
+Depois que a gente se separou
+Tô chorando, sofrendo e bebendo
+Comendo o pão que o diabo amassou
+
+E o pior que fui eu quem traí
+Fui eu quem perdi a pessoa amada
+No instante fui fraca demais
+Perdi a cabeça e fiz a burrada
+
+Diz que eu ia pagar caro
+Prometeu não deixar baixo
+
+Pra quê isso?
+Desfilar com essa otária bem na minha cara?
+Pra quê isso?
+Já não basta o abandono e as noite sem sono?
+
+Pra quê isso?
+Me pisar, me humilhar, me tratar feito um lixo?
+Pra quê isso?
+Pra quê isso?
+
+Pra quê isso?
+Desfilar com essa otária bem na minha cara?
+Pra quê isso?
+Já não basta o abandono e as noite sem sono?
+
+Pra quê isso?
+Me pisar, me humilhar, me tratar feito um lixo?
+Pra quê isso?
+Pra quê isso?
+Pra quê isso?
+
+Minha vida mudou de uma forma
+Depois que a gente se separou
+Tô chorando, sofrendo e bebendo
+Comendo o pão que o diabo amassou
+
+E o pior que fui eu quem traí
+Fui eu quem perdi a pessoa amada
+No instante fui fraca demais
+Perdi a cabeça e fiz a burrada
+
+Diz que eu ia pagar caro
+Prometeu não deixar baixo
+
+Pra quê isso?
+Desfilar com essa otária bem na minha cara?
+Pra quê isso?
+Já não basta o abandono e as noite sem sono?
+
+Pra quê isso?
+Me pisar, me humilhar, me tratar feito um lixo?
+Pra quê isso?
+Pra quê isso?
+
+Pra quê isso?
+Desfilar com essa otária bem na minha cara?
+Pra quê isso?
+Já não basta o abandono e as noite sem sono?
+
+Pra quê isso?
+Me pisar, me humilhar, me tratar feito um lixo?
+Pra quê isso?
+Pra quê isso?
+
+Pra quê isso?
+Desfilar com essa otária bem na minha cara?
+Pra quê isso?
+Já não basta o abandono e as noite sem sono?
+
+Pra quê isso?
+Me pisar, me humilhar, me tratar feito um lixo?
+Pra quê isso?
+Pra quê isso?
+Pra quê isso?"
+"Na mesma moeda","Julia e Rafaela","Eu já vi, e tô me segurando pra não ir ai
+Se for quero brigar fica feio pra mim
+E eu não sou assim
+
+Por isso vai provar todo poder que a vingança tem
+Por pisar e machucar o coração de alguém
+
+E sentir a revolta de uma pessoa enganada
+Pagando o preço da mesma moeda dobrada
+
+Olha aqui não vou deixar barato eu vou descontar
+Pra cada chifre que eu ganhei uns 10 cê vai levar
+Só pra te avisar só pra te avisar
+
+Olha aqui não vou passar um pano nessa traição
+Nem vem bater na minha porta pedir meu perdão
+Só pra te avisar só pra te avisar
+
+Mexe comigo não"
+"Quem aguenta","Jads e Jadson","Só vou dormir quando as luzes
+Da cidade se apagar
+Entre tantos pensamentos nessa madrugada
+A saudade não me deixa dormir
+
+Com uma carteira de cigarro
+Uma caixinha de cerveja
+A solidão é companhia
+Nessa mesa da amargura
+Conversando sozinho com minhas loucuras
+
+Quem aguenta
+Saudade no peito arde mais que pimenta
+Pior que cerveja quente
+Eu aqui lembrando da gente"
+"Sarcasmo","Thaeme e Thiago","Se quer um conselho
+Não olha no espelho
+Tá me dando dó
+Te ver desse jeito
+
+Na mão, uma dose
+Na boca, um cigarro
+Seus olhos vermelhos
+Seu rosto molhado
+
+Tá até parecendo
+Que traiu alguém, talvez
+E se arrependeu
+Mas é tarde demais, não sei
+Mas, em todo caso
+Desculpa o sarcasmo
+
+Será que tá faltando
+O que aí, hein?
+Será que é meu colo
+Que te faz dormir, hein?
+
+Ou será que é o meu jeito bobo
+Que te faz sorrir?
+Será que o problema
+É a falta de mim em você?
+Deve ser
+
+Será que tá faltando
+O que aí, hein?
+
+Se quer um conselho
+Não olha no espelho
+Tá me dando dó
+Te ver desse jeito
+
+Na mão, uma dose
+Na boca, um cigarro
+Seus olhos vermelhos
+Seu rosto molhado
+
+Tá até parecendo
+Que traiu alguém, talvez
+E se arrependeu
+Mas é tarde demais, não sei
+Mas, em todo caso
+Desculpa o sarcasmo
+
+Será que tá faltando
+O que aí, hein?
+Será que é meu colo
+Que te faz dormir, hein?
+
+Ou será que é o meu jeito bobo
+Que te faz sorrir?
+Será que o problema
+É a falta de mim em você?
+Deve ser
+
+Será que tá faltando
+O que aí, hein?
+Será que é meu colo
+Que te faz dormir, hein?
+
+Ou será que é o meu jeito bobo
+Que te faz sorrir?
+Será que o problema
+É a falta de mim em você?
+Deve ser
+
+Será que tá faltando
+O que aí, hein?"
+"Nosso infinito","Breno e Caio Cesar","Tem dias difíceis demais
+E eu não me acostumo
+Com gente que fala da boca pra fora
+Depois vai embora assim
+Sem se importar com quem ficou
+
+Mas sorte que eu tive meu dia de sorte
+Bendito endereço, a rua, o shopping
+Que a gente esbarrou
+Coração te beijou amor
+Sem se importar
+Com quem passou
+
+Pensando bem
+Eu já me acostumei com tudo
+Mas com seu sorriso não
+Seu sorriso não
+
+E agora ser feliz é nossa obrigação
+Seu nome já faz parte da minha oração
+Eu só quero mais tempo
+Pro nosso infinito durar
+
+E agora ser feliz é nossa obrigação
+Seu nome já faz parte da minha oração
+Eu só quero mais tempo
+Pro nosso infinito durar"
+"Medida Certa","Jorge & Mateus","Oi, tô te ligando pra você passar aqui em casa
+Hoje à noite, se tiver desocupada
+Só se der, só se der
+
+Não, não vai dizer pra ninguém que sinto saudades
+Não é verdade
+Eu e você, nada a ver
+
+É que meu pente perguntou do seu cabelo
+Ouvi reclamações do meu espelho
+Querendo saber de você
+Que dia ele vai te ver
+
+Eu juro que, pra mim, pouco me importa
+Se eu passo toda hora na sua porta
+Meu carro que se apaixonou na rota
+
+É, não sou eu
+O meu quarto que ficou apaixonado
+Travesseiro dependente e viciado em você
+Não sou eu
+Meu lençol te quer agora e não depois
+Minha cama tem a medida certa pra nós dois
+
+É que meu pente perguntou do seu cabelo
+Ouvi reclamações do meu espelho
+Querendo saber de você
+Que dia ele vai te ver
+
+E eu juro que, pra mim, pouco me importa
+Se eu passo toda hora na sua porta
+Meu carro que se apaixonou na rota
+
+É, não sou eu
+Meu quarto que ficou apaixonado
+Travesseiro dependente e viciado em você
+Não sou eu
+Meu lençol te quer agora e não depois
+Minha cama tem a medida certa pra nós dois
+
+É, não, não sou eu
+O meu quarto que ficou apaixonado
+Travesseiro dependente e viciado em você
+Não sou eu
+Meu lençol te quer agora e não depois
+Minha cama tem a medida certa pra nós dois
+
+Pra nós dois"
+"Se o Amor Tiver Lugar","Jorge & Mateus","Esse amor bateu de frente
+Não sai mais da minha mente
+Como faz pra segurar?
+Já to louco pra beijar
+
+Aaah, aaah, aaah, aaah
+
+E a areia branca virou nossa cama
+Descompasso no vai e vem das ondas
+Em janeiro, você vem
+Fevereiro, você vai
+Mas se quiser, pode ficar uma vida inteira
+
+Se o amor tiver paixão
+Se o amor tiver lugar
+Fica um pouco mais
+Fica um pouco mais
+
+Se o amor tiver paixão
+Se o amor tiver lugar
+Fica um pouco mais
+Fica um pouco mais
+
+Ôuô (ôuô) ôuô
+Ôuô (ôuô) ôuô
+Fica um pouco mais
+Só um pouco mais
+
+E a areia branca virou nossa cama
+Descompasso no vai e vem das ondas
+Em janeiro, você vem
+Fevereiro, você vai
+Mas se quiser, pode ficar uma vida inteira
+
+Se o amor tiver paixão
+Se o amor tiver lugar
+Fica um pouco mais
+Fica um pouco mais
+
+Se o amor tiver paixão
+Se o amor tiver lugar
+Fica um pouco mais
+Fica um pouco mais
+
+Ôuô (ôuô) ôuô
+Ôuô (ôuô) ôuô
+Fica um pouco mais
+Só um pouco mais"
+"Terapinga","Fernando e Sorocaba","Resolvi aceitar seu conselho
+Dar um basta no meu desespero
+Eu resolvi mudar
+Sabe o fundo do poço?
+Eu não tô mais lá
+
+O meu olho vermelho não é mais de chorar
+E aquela tremedeira eu já consegui tratar
+Tô a dois passos da felicidade
+E pra falar a verdade
+Eu tô mentindo se eu disser que sinto saudade
+
+Eu tô fazendo terapinga
+Toda terça e quinta
+De sessão em sessão cê vai saindo da minha vida
+Tô fazendo terapinga
+Toda terça e quinta
+Depois do trabalho
+Tenho horário marcado
+
+Eu tô fazendo terapinga
+Toda terça e quinta
+De sessão em sessão cê vai saindo da minha vida
+Tô fazendo terapinga
+Toda terça e quinta
+Depois do trabalho
+Tenho horário marcado lá no boteco da esquina"
+"Amor da sua cama","Felipe Araújo","E se eu despir minha alma
+Será que ela também te excita?
+As vezes o amor se disfarça embaixo dos lençóis, reflita
+
+Tenho vontade de ir mais fundo
+Mas não tenho certeza se ainda posso
+Certeza eu tenho que posso ir além do que virar seus olhos
+
+Além de transpirar seus poros
+Além de arrancar sua roupa
+Além de apresentar o caminho que você percorre com a sua boca
+Mas ó, é só uma ideia boba
+É só uma ideinha boba
+
+Tudo bem
+Se é pra você me usar, o que é que tem?
+Só de tá com você, fico bem
+Posso não ser o amor da sua vida
+
+Tudo bem
+Se é pra você me usar, o que é que tem?
+Tanto faz se você não me ama
+Posso não ser o amor da sua vida
+Mas eu sou o amor da sua cama, ai, ai, ai, ai
+Mas eu sou o amor da sua cama, ai, ai, ai, ai
+
+Tenho vontade de ir mais fundo
+Mas não tenho certeza se ainda posso
+Certeza eu tenho que posso ir além do que virar seus olhos
+
+Além de transpirar seus poros
+Além de arrancar sua roupa
+Além de apresentar o caminho que você percorre com a sua boca
+Mas ó, é só uma ideia boba
+É só uma ideinha boba
+
+Tudo bem
+Se é pra você me usar, o que é que tem?
+Só de tá com você, fico bem
+Posso não ser o amor da sua vida
+
+Tudo bem
+Se é pra você me usar, o que é que tem?
+Tanto faz se você não me ama
+Posso não ser o amor da sua vida
+
+Tudo bem
+Se é pra você me usar, o que é que tem?
+Só de tá com você, fico bem
+
+Tudo bem
+Se é pra você me usar, o que é que tem?
+Tanto faz se você não me ama
+Posso não ser o amor da sua vida
+Mas eu sou o amor da sua cama, ai, ai, ai, ai
+Mas eu sou o amor da sua cama, ai, ai, ai, ai
+
+Tudo bem
+Tudo bem"
+"Velho namorado novo","Conrado e Aleksandro","Eu sinto muito por você sentir tão pouco
+Eu tô sentindo exatamente o mesmo
+Será que acabou
+Ou será que é só o medo?
+
+De apostar em nós dois, encarar um recomeço
+Dá preguiça de pensar que vai ser do mesmo jeito
+Todo mundo tem defeitos
+E pelo menos os seus eu já conheço
+
+Tenta comigo um recomeço
+Deixa eu me apresentar de novo
+Muito prazer
+Eu sou seu velho namorado novo
+
+Tenta comigo um recomeço
+Deixa eu me apresentar de novo
+Muito prazer
+Eu sou seu velho namorado novo
+
+Eu sinto muito por você sentir tão pouco
+Eu tô sentindo exatamente o mesmo
+Será que acabou
+Ou será que é só o medo?
+
+De apostar em nós dois, encarar um recomeço
+Dá preguiça de pensar que vai ser do mesmo jeito
+Todo mundo tem defeitos
+E pelo menos os seus eu já conheço
+
+Tenta comigo um recomeço
+Deixa eu me apresentar de novo
+Muito prazer
+Eu sou seu velho namorado novo
+
+Tenta comigo um recomeço
+Deixa eu me apresentar de novo
+Muito prazer
+Eu sou seu velho namorado novo
+
+Tenta comigo um recomeço
+Deixa eu me apresentar de novo
+Muito prazer
+Eu sou seu velho namorado novo
+
+Tenta comigo um recomeço
+Deixa eu me apresentar de novo
+Muito prazer
+Eu sou seu velho namorado novo"
+"Box do chuveiro","Munhoz e Mariano","O que foi que eu fiz?
+Ela passou, eu disse oi, nem respondeu
+Meu Deus do céu, o que será que aconteceu?
+Será que ela não tá me reconhecendo?
+
+Vou aproveitar que ela tá com umas amigas
+Vou falar com ela, vamo ver se ela desvia
+Se ela virar o rosto ou mudar de assunto
+Vai passar vergonha na frente de todo mundo
+
+Eu vou refrescar sua memória
+
+Sua mão no box do chuveiro
+Olha nós dois juntos no espelho
+Puxa meu cabelo, beija minha boca
+Fala aí pra mim se isso te lembra alguma coisa
+
+Sua mão no box do chuveiro
+Olha nós dois juntos no espelho
+Puxa meu cabelo, beija minha boca
+Fala aí pra mim se isso te lembra alguma coisa"
+"Eu já te quis um dia","Sorriso Maroto","Ôh ôh ôôh! Ôh ôh ôôh!
+Eu já te quis um dia
+Ôh ôh ôôh! Ôh ôh ôôh!
+Eu já te quis um dia
+
+Eu nunca fui dono do mundo
+Mas eu sempre fiz de tudo pra te agradar
+Até mesmo cansado
+Quando chegava do trabalho, ia te amar
+
+Você jogou no lixo nossa relação e deletou
+Tudo que construímos foi em vão
+Era lindo, era belo aquele amor, mas se acabou
+Fiz de tudo, fiz de tudo, foi em vão
+
+Eu já te quis um dia!
+E depois de tudo agora quem não quer sou eu
+Eu já te quis um dia!
+Lá atrás cê tirou onda e hoje corre atrás de mim
+
+Sei não, viu?
+Não vem com esse papo de que está arrependida
+E sempre chora com as amigas
+Sei não, viu?
+Ficou doida, perdida. Some da minha vida
+Vem
+
+Ôh ôh ôôh! Ôh ôh ôôh!
+Eu já te quis um dia
+Ôh ôh ôôh! Ôh ôh ôoh!
+Eu já te quis um dia
+
+Eu nunca fui dono do mundo
+Mas eu sempre fiz de tudo pra te agradar
+Até mesmo cansado
+Quando chegava do trabalho, ia te amar
+
+Você jogou no lixo nossa relação e deletou
+Tudo que construímos foi em vão
+Era lindo, era belo aquele amor, mas se acabou
+Fiz de tudo, fiz de tudo, foi em vão
+
+Eu já te quis um dia!
+E depois de tudo agora quem não quer sou eu
+Eu já te quis um dia!
+Lá atrás cê tirou onda e hoje corre atrás de mim
+
+Sei não, viu?
+Não vem com esse papo de que está arrependida
+E sempre chora com as amigas
+Sei não, viu?
+Ficou doida, perdida. Some da minha vida
+Vem vem vem
+
+Ôh ôh ôôh! Ôh ôh ôôh!
+Eu já te quis um dia
+Ôh ôh ôôh! Ôh ôh ôôh!
+Eu já te quis um dia
+
+Ôh ôh ôôh! Ôh ôh ôôh!
+Eu já te quis um dia
+Ôh ôh ôôh! Ôh ôh ôôh!
+Eu já te quis um dia
+
+Agora quem não quer sou eu
+Eu já te quis um dia"
+"Tomador de whisky","Munhoz e Mariano","Cê tá perdendo tempo
+Tentando me convencer
+Que eu tô fazendo tudo errado
+Vivendo pra beber
+
+Mas cê não tá sabendo
+Das coisas que eu já passei
+Dos tombos que o amor meu deu
+E o tanto que eu me lasquei
+
+Mas ouça companheiro
+Meu conselho é pra você
+
+Antes solteiro, cachaceiro
+Tomador de Whisky
+Do que namorando
+Tomando chifre
+
+Antes solteiro, cachaceiro
+Tomador de Whisky
+Do que namorando
+Tomando chifre
+
+Cê tá perdendo tempo
+Tentando me convencer
+Que eu tô fazendo tudo errado
+Vivendo pra beber
+
+Mas cê não tá sabendo
+Das coisas que eu já passei
+Dos tombos que o amor meu deu
+E o tanto que eu me lasquei
+
+Mas ouça companheiro
+Meu conselho é pra você
+
+Antes solteiro, cachaceiro
+Tomador de Whisky
+Do que namorando
+Tomando chifre
+
+Antes solteiro, cachaceiro
+Tomador de Whisky
+Do que namorando
+Tomando chifre"
+"To bem","Luiza e Maurilio","Doze horas e trinta minutos
+Que eu não sinto mais saudade
+Que eu tô sem ninguém
+Mas tô bem
+Tô sem você, mas tô bem
+
+Não lembro que onze de outubro é seu aniversário
+Que toda terça eu levo o Bob no veterinário
+Que tá vazia a sua parte do armário
+Mas tá tudo bem
+Tô sem você, mas tô bem
+
+Tô bem mal
+Eu não aguento tanta solidão
+Tô bagunçada do cabelo ao coração
+Eu não consigo me desapegar
+Mas tô bem
+
+Tô bem mal
+Agi errado com a pessoa certa
+Eu tô chorando até em filme de comédia
+Você é o erro que eu quero consertar
+Me diz aí, aonde eu aperto pra voltar?
+
+Doze horas e trinta minutos
+Que eu não sinto mais saudade
+Que eu tô sem ninguém
+Mas tô bem
+Tô sem você, mas tô bem
+
+Não lembro que onze de outubro é seu aniversário
+Que toda terça eu levo o Bob no veterinário
+Que tá vazia a sua parte do armário
+Mas tá tudo bem
+Tô sem você, mas tô bem
+
+Tô bem mal
+Eu não aguento tanta solidão
+Tô bagunçada do cabelo ao coração
+Eu não consigo me desapegar
+Mas tô bem
+
+Tô bem mal
+Agi errado com a pessoa certa
+Eu tô chorando até em filme de comédia
+Você é o erro que eu quero consertar
+Me diz aí, aonde eu aperto pra voltar?
+
+Tô bem mal
+Eu não aguento tanta solidão
+Tô bagunçada do cabelo ao coração
+Eu não consigo me desapegar
+Mas tô bem
+
+Tô bem mal
+Agi errado com a pessoa certa
+Eu tô chorando até em filme de comédia
+Você é o erro que eu quero consertar
+Me diz aí, aonde eu aperto pra voltar?"
+"Era Uma Vez","Kell Smith","Era uma vez
+O dia em que todo dia era bom
+Delicioso gosto e o bom gosto
+Das nuvens serem feitas de algodão
+
+Dava pra ser herói
+No mesmo dia em que escolhia ser vilão
+E acabava tudo em lanche, um banho quente
+E talvez um arranhão
+
+Dava pra ver
+A ingenuidade, a inocência cantando no tom
+Milhões de mundos e universos tão reais
+Quanto a nossa imaginação
+
+Bastava um colo, um carinho
+E o remédio era beijo e proteção
+Tudo voltava a ser novo no outro dia
+Sem muita preocupação
+
+É que a gente quer crescer
+E quando cresce, quer voltar do início
+Porque um joelho ralado
+Dói bem menos que um coração partido
+
+É que a gente quer crescer
+E quando cresce, quer voltar do início
+Porque um joelho ralado
+Dói bem menos que um coração partido
+
+Dá pra viver
+Mesmo depois de descobrir que o mundo ficou mau
+É só não permitir que a maldade do mundo
+Te pareça normal
+
+Pra não perder a magia de acreditar
+Na felicidade real
+E entender que ela mora no caminho
+E não no final
+
+É que a gente quer crescer
+E quando cresce, quer voltar do início
+Porque um joelho ralado
+Dói bem menos que um coração partido
+
+É que a gente quer crescer
+E quando cresce, quer voltar do início
+Porque um joelho ralado
+Dói bem menos que um coração partido
+
+Era uma vez"
+"Luzes de São Paulo","Fernando & Sorocaba","E se juntar
+Todas as luzes de São Paulo
+Dos prédios e dos carros
+Ainda não vai dar
+Nem a metade do que eu sinto aqui
+
+Tenta somar
+E se for pouco o resultado
+Junta todos os estados
+E ainda conta o mar
+Será que agora dá?
+
+E aí?
+Cê tá duvidando de quê?
+Se ainda não tá bom, me diz
+Se falta alguma coisa pra você (iê iê)
+
+Quer que eu faça chover?
+Pra poder contar os pingos da chuva
+E ver que cada gota é um Te Amo pra você
+Depois de tudo, sai na janela pra ver (iê iê)
+
+Quer que eu faça chover?
+Pra poder contar os pingos da chuva
+E ver que cada gota é um Te Amo pra você
+Depois de tudo, sai na janela pra ver
+Eu tô em cada luz que São Paulo acender
+
+Tenta somar
+E se for pouco o resultado
+Junta todos os estados
+E ainda conta o mar
+Será que agora dá?
+
+E aí?
+Cê tá duvidando de quê?
+Se ainda não tá bom, me diz
+Se falta alguma coisa pra você (iê iê)
+
+Quer que eu faça chover?
+Pra poder contar os pingos da chuva
+E ver que cada gota é um Te Amo pra você
+Depois de tudo, sai na janela pra ver (iê iê)
+
+Quer que eu faça chover?
+Pra poder contar os pingos da chuva
+E ver que cada gota é um Te Amo pra você
+Depois de tudo, sai na janela pra ver (iê iê)
+
+Quer que eu faça chover?
+Pra poder contar os pingos da chuva
+E ver que cada gota é um Te Amo pra você
+Depois de tudo, sai na janela pra ver
+
+Quer que eu faça chover?
+Pra poder contar os pingos da chuva
+E ver que cada gota é um Te Amo pra você
+Depois de tudo, sai na janela pra ver (iê iê)
+Eu tô em cada luz que São Paulo acender
+
+Eu tô em cada luz que São Paulo acender"
+"Fotos antigas","Thiaguinho","Um dia a gente vai se encontrar
+Sentar pra conversar e se entender
+De uma vez!
+É
+
+O tempo passa, mas eu não esqueço
+O nosso jeito de desestressar
+E quando o corpo pedia
+A gente já ia ao pote com sede de amar
+E rola um papo que você comenta
+Que tem saudade, mas não vai ligar
+Sempre que a corda arrebenta é pro lado de cá
+
+Eu sei que você sai com as amigas
+Bebendo demais na balada
+Mas chora com fotos antigas
+Sozinha trancada em casa
+Assim que você se acalmar
+É só me fazer um sinal
+(Faz um sinalzinho)
+Que eu volto de qualquer lugar
+Pra tudo voltar ao normal"
+"Coisa de ex","Paula Mattos","Esquece de uma vez
+O mal que ela te fez
+Ficou la no passado
+É coisa de ex
+
+Ela só ta fazendo
+A gente brigar
+E ai você vai deixar
+
+Mostrar pra ela
+Que agora você é meu
+Que o amor que você deu
+ela não mereceu
+
+Ela só ta fazendo
+A gente brigar
+E ai você vai deixar
+
+Não deixa ela se aproveitar
+Dessa situação, não deixa não
+
+Eu vou descontar
+A raiva dela
+Na sua boca
+Vou dar o troco
+Tirando a sua roupa
+
+Trazer você pra morar na minha cama
+Eu vou contar pra ela que a gente se ama
+Eu vou"
+"Energia surreal","Thiaguinho","Olha a chuva caindo lá fora
+E a casa inteira só pra gente
+Será que pode melhorar?
+Que tal um chocolate quente?
+
+Olha, tá tarde pro'cê ir embora
+Não é melhor você ficar?
+Te empresto uma roupa minha
+Se bem que nem vai precisar
+
+Olha nos meus olhos
+Lê a minha mente
+Vai que, de repente, a gente tá pensando igual
+
+No sofá da sala
+Energia surreal
+Aqui dentro amor
+Lá fora temporal
+
+Olha nos meus olhos
+Lê a minha mente
+Vai que, de repente, a gente tá pensando igual
+
+No sofá da sala
+Energia surreal
+Aqui dentro amor
+Lá fora temporal
+
+Olha a chuva caindo lá fora
+E a casa inteira só pra gente
+Será que pode melhorar?
+Que tal um chocolate quente?
+
+Olha, tá tarde pro'cê ir embora
+Não é melhor você ficar?
+Te empresto uma roupa minha
+Se bem que nem vai precisar
+
+Olha nos meus olhos
+Lê a minha mente
+Vai que, de repente, a gente tá pensando igual
+
+No sofá da sala
+Energia surreal
+Aqui dentro amor
+Lá fora temporal
+
+Olha nos meus olhos
+Lê a minha mente
+Vai que, de repente, a gente tá pensando igual
+
+No sofá da sala
+Energia surreal
+Aqui dentro amor
+Lá fora temporal
+
+Olha nos meus olhos
+Lê a minha mente
+Vai que, de repente, a gente tá pensando igual
+
+No sofá da sala
+Energia surreal
+Aqui dentro amor
+Lá fora temporal"
+"Me chama","Pedro Paulo e Alex","Se me aproximo
+Já fica louca
+Fica tranquila não é só você
+Eu também to querendo
+
+Imagina minha boca
+Mordendo a sua boca
+Arrepia, excita, o que vem depois
+Meu corpo colado no seu corpo
+Suado de tanto fazer amor
+
+Se quer o meu calor então
+Me chama
+Me leva pra cama
+Eu quero fazer amor com você"
+"Mais um ano juntos","Marcos e Belutti","Amar alguém é fácil quando vai tudo bem
+Difícil é ficar quando os problemas vem
+Nem tudo é mar de rosas, entendemos do assunto
+Pois olha nós aqui comemorando mais um ano juntos
+
+Parabéns pra nós, amor
+Eu passei no jardim
+E te trouxe essa flor
+Na falta de champanhe
+Tem suco de laranja
+E esse bolinho de chocolate
+Que eu sei que você ama
+
+Eu quero renovar os votos e dizer
+Que na riqueza ou na pobreza
+Eu quero só você
+Dinheiro vai e vem
+O amor que a gente tem
+Supera falta dele e fica tudo bem
+
+Casal em crise de grana e não de amor
+Vai melhorar, não chora por favor
+Um brinde a nós dois a intuição me diz
+Que ano que vem a gente comemora
+Essa data em Paris
+
+Parabéns pra nós, amor
+Eu passei no jardim
+E te trouxe essa flor
+Na falta de champanhe
+Tem suco de laranja
+E esse bolinho de chocolate
+Que eu sei que você ama
+
+Eu quero renovar os votos e dizer
+Que na riqueza ou na pobreza
+Eu quero só você
+Dinheiro vai e vem
+O amor que a gente tem
+Supera falta dele e fica tudo bem
+
+Casal em crise de grana e não de amor
+Vai melhorar, não chora por favor
+Um brinde a nós dois a intuição me diz
+Que ano que vem a gente comemora
+Essa data em Paris
+
+Tem mais uma coisinha, quase eu me esqueci
+Um cartãozinho lindo, nele eu escrevi
+Que o meu maior tesouro é seu amor querida
+Muito obrigado por você existir na minha vida
+
+E quando eu for bem velhinho eu vou contar
+Essa história pros netinhos na sombra de um pomar
+Bolo de chocolate, suco de laranja bem fresquinho
+Meu plano é envelhecer do seu ladinho
+
+Eu quero renovar os votos e dizer
+Que na riqueza ou na pobreza
+Eu quero só você
+Dinheiro vai e vem
+O amor que a gente tem
+Supera falta dele e fica tudo bem
+
+Casal em crise de grana e não de amor
+Vai melhorar, não chora por favor
+Um brinde a nós dois a intuição me diz
+Que ano que vem a gente comemora
+Essa data em Paris
+
+Uô uô,
+Em Paris"
+"Acertou a mão","Luan Santana","Se alguém quiser o seu sorriso e pagar 1 milhão
+Vende não
+Se alguém quiser fazer negócio com alguma estrela
+Troca não
+
+Seu sorriso deixaria até o sol enciumado
+E também iluminaria o estádio
+Tem um tesouro aí
+Bem aí
+Entre o seu queixo e o seu nariz
+
+Quem fez o seu sorriso
+Acertou a mão
+Acertou a mão
+Meu Deus, quem fez o seu sorriso
+Acertou a mão
+Acertou a mão
+
+Meu Deus, quem fez o seu sorriso
+Acertou a mão
+Acertou a mão
+Meu Deus, quem fez o seu sorriso
+Acertou a mão
+Acertou a mão
+Só Deus pra tanta perfeição
+
+Seu sorriso deixaria até o sol enciumado
+E também iluminaria o estádio
+Tem um tesouro aí
+Bem aí
+Entre o seu queixo e o seu nariz
+
+Quem fez o seu sorriso
+Acertou a mão
+Acertou a mão
+Meu Deus, quem fez o seu sorriso
+Acertou a mão
+Acertou a mão
+Só Deus (só Deus)
+
+Quem fez o seu sorriso
+Acertou a mão
+Acertou a mão
+Meu Deus, quem fez o seu sorriso
+Acertou a mão
+Acertou a mão
+Só Deus pra tanta perfeição"
+"Seu padre","Antony e Gabriel","Tava tudo planejado, os móveis
+O buffet da festa e a lista de convidados
+Comprei tudo do mais caro
+
+Fiz curso de noivo
+Mas não vai servir pra nada
+Desculpe o linguajar
+Mas ela foi uma safada
+
+Ô, seu padre
+Só vim fazer um esclarecimento
+Não vai ter mais casamento
+Cê acredita que ela fez isso comigo
+Ontem me chamou de amor e hoje cedo me largou
+
+Ô, seu padre
+Só vim fazer um esclarecimento
+Não vai ter mais casamento
+Mas só pra não aumentar o prejuízo
+Nós desce tudo lá pra casa
+Vamos beber que a festa de todo jeito tá paga"
+"Naturalmente","Loubet","Eu não sei se é pra sempre ou se vai ser só por enquanto
+Se depois desse beijo a gente consegue parar
+Pode ser que amanhã cada um vai estar no seu canto
+Ou talvez nosso canto esteja no mesmo lugar
+
+Ai, ai, ai
+Ai, ai, ai
+Se a gente soma o nosso destino com nossa vontade
+Ai, ai, ai
+Ai, ai, ai
+
+Naturalmente
+A gente sente
+O amor é feito tempestade, chega de repente
+Naturalmente
+A gente se rende
+Não adianta teimar, no final o amor sempre vence
+Naturalmente"
+"Notícia Boa","Fernando & Sorocaba","Tô sabendo que cê tá solteira
+Ô noticia boa
+Que ex safado, se vinga dele
+Vem! Desconta na minha boca
+
+Entrei no seu perfil
+Não tem foto com ele
+Ué, cadê?
+E parou de seguir nas redes sociais
+Ué, por quê?
+
+Será que é o que eu tô pensando
+Eu já sabia
+Ele tava te enganando
+
+É minha chance
+Tava esperando
+Atende aí
+Ó eu ligando
+
+Tô sabendo que cê tá solteira
+Ô noticia boa!
+Que ex safado, se vinga dele
+Vem! Desconta na minha boca
+
+Ele tava se achando o cara pegador
+Ué, cadê?
+E agora arrependido,não te deixa em paz
+Ué, por quê?
+
+Agora sou eu que tô aproveitando
+Ninguém mandou ele se achar o malandro
+É minha chance
+Tava esperando
+Atende aí
+Ó eu ligando
+
+Tô sabendo que cê tá solteira
+Ô noticia boa!
+Que ex safado, se vinga dele
+Vem! Desconta na minha boca
+
+Não é que eu torci contra
+Nem que eu joguei praga
+Mas tava esperando ele dar mancada
+
+Tô sabendo que cê tá solteira
+Ô noticia boa!
+Que ex safado, se vinga dele
+Vem! Desconta na minha boca"
